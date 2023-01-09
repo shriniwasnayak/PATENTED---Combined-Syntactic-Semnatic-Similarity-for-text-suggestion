@@ -1,0 +1,502 @@
+2020-02-23 23:52:30,767  * Restarting with stat
+2020-02-23 23:52:33,329  * Debugger is active!
+2020-02-23 23:52:33,336  * Debugger PIN: 274-271-534
+2020-02-23 23:52:33,346  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-23 23:52:40,778 =========================Starting Main===============================
+2020-02-23 23:52:40,779 Inside Main Menu
+2020-02-23 23:52:40,779 Starting determine_operation with input : E:\College\Project_BE\Product\input\techminputdata.csv
+2020-02-23 23:52:40,779 Completed determine_operation, file found
+2020-02-23 23:52:40,779 Starting readdatafromdb
+2020-02-23 23:52:41,222 Completed readdatafromdb
+2020-02-23 23:52:41,223 Starting syntactic_similarity_operation
+2020-02-23 23:52:41,223 Starting generate_stopwords_list
+2020-02-23 23:52:41,224 Completed generate_stopwords_list
+2020-02-23 23:52:41,224 Starting cleandata
+2020-02-23 23:52:41,608 Completed cleandata
+2020-02-23 23:52:41,609 Starting cleaninputquestion
+2020-02-23 23:52:41,609 Completed cleaninputquestion
+2020-02-23 23:52:41,609 Starting find_cosine_similarity
+2020-02-23 23:52:41,609 Starting caluculatesimilarity
+2020-02-23 23:52:41,609 Generated vectors
+2020-02-23 23:52:41,609 Completed caluculatesimilarity
+2020-02-23 23:52:41,609 Starting caluculatesimilarity
+2020-02-23 23:52:41,609 Generated vectors
+2020-02-23 23:52:41,609 Completed caluculatesimilarity
+2020-02-23 23:52:41,609 Starting caluculatesimilarity
+2020-02-23 23:52:41,609 Generated vectors
+2020-02-23 23:52:41,610 Completed caluculatesimilarity
+2020-02-23 23:52:41,610 Starting caluculatesimilarity
+2020-02-23 23:52:41,610 Generated vectors
+2020-02-23 23:52:41,610 Completed caluculatesimilarity
+2020-02-23 23:52:41,610 Starting caluculatesimilarity
+2020-02-23 23:52:41,610 Generated vectors
+2020-02-23 23:52:41,610 Completed caluculatesimilarity
+2020-02-23 23:52:41,610 Starting caluculatesimilarity
+2020-02-23 23:52:41,610 Generated vectors
+2020-02-23 23:52:41,610 Completed caluculatesimilarity
+2020-02-23 23:52:41,611 Starting caluculatesimilarity
+2020-02-23 23:52:41,611 Generated vectors
+2020-02-23 23:52:41,611 Completed caluculatesimilarity
+2020-02-23 23:52:41,611 Starting caluculatesimilarity
+2020-02-23 23:52:41,611 Generated vectors
+2020-02-23 23:52:41,611 Completed caluculatesimilarity
+2020-02-23 23:52:41,611 Starting caluculatesimilarity
+2020-02-23 23:52:41,611 Generated vectors
+2020-02-23 23:52:41,611 Completed caluculatesimilarity
+2020-02-23 23:52:41,611 Starting caluculatesimilarity
+2020-02-23 23:52:41,612 Generated vectors
+2020-02-23 23:52:41,612 Completed caluculatesimilarity
+2020-02-23 23:52:41,612 Starting caluculatesimilarity
+2020-02-23 23:52:41,612 Generated vectors
+2020-02-23 23:52:41,612 Completed caluculatesimilarity
+2020-02-23 23:52:41,612 Starting caluculatesimilarity
+2020-02-23 23:52:41,612 Generated vectors
+2020-02-23 23:52:41,612 Completed caluculatesimilarity
+2020-02-23 23:52:41,613 Starting caluculatesimilarity
+2020-02-23 23:52:41,613 Generated vectors
+2020-02-23 23:52:41,613 Completed caluculatesimilarity
+2020-02-23 23:52:41,613 Starting caluculatesimilarity
+2020-02-23 23:52:41,613 Generated vectors
+2020-02-23 23:52:41,613 Completed caluculatesimilarity
+2020-02-23 23:52:41,613 Starting caluculatesimilarity
+2020-02-23 23:52:41,613 Generated vectors
+2020-02-23 23:52:41,613 Completed caluculatesimilarity
+2020-02-23 23:52:41,614 Starting caluculatesimilarity
+2020-02-23 23:52:41,614 Generated vectors
+2020-02-23 23:52:41,614 Completed caluculatesimilarity
+2020-02-23 23:52:41,614 Starting caluculatesimilarity
+2020-02-23 23:52:41,614 Generated vectors
+2020-02-23 23:52:41,614 Completed caluculatesimilarity
+2020-02-23 23:52:41,614 Starting caluculatesimilarity
+2020-02-23 23:52:41,614 Generated vectors
+2020-02-23 23:52:41,615 Completed caluculatesimilarity
+2020-02-23 23:52:41,615 Starting caluculatesimilarity
+2020-02-23 23:52:41,615 Generated vectors
+2020-02-23 23:52:41,615 Completed caluculatesimilarity
+2020-02-23 23:52:41,615 Starting caluculatesimilarity
+2020-02-23 23:52:41,615 Generated vectors
+2020-02-23 23:52:41,615 Completed caluculatesimilarity
+2020-02-23 23:52:41,615 Starting caluculatesimilarity
+2020-02-23 23:52:41,615 Generated vectors
+2020-02-23 23:52:41,615 Completed caluculatesimilarity
+2020-02-23 23:52:41,616 Starting caluculatesimilarity
+2020-02-23 23:52:41,616 Generated vectors
+2020-02-23 23:52:41,616 Completed caluculatesimilarity
+2020-02-23 23:52:41,616 Starting caluculatesimilarity
+2020-02-23 23:52:41,616 Generated vectors
+2020-02-23 23:52:41,616 Completed caluculatesimilarity
+2020-02-23 23:52:41,616 Starting caluculatesimilarity
+2020-02-23 23:52:41,616 Generated vectors
+2020-02-23 23:52:41,616 Completed caluculatesimilarity
+2020-02-23 23:52:41,617 Starting caluculatesimilarity
+2020-02-23 23:52:41,617 Generated vectors
+2020-02-23 23:52:41,617 Completed caluculatesimilarity
+2020-02-23 23:52:41,617 Starting caluculatesimilarity
+2020-02-23 23:52:41,617 Generated vectors
+2020-02-23 23:52:41,617 Completed caluculatesimilarity
+2020-02-23 23:52:41,617 Starting caluculatesimilarity
+2020-02-23 23:52:41,617 Generated vectors
+2020-02-23 23:52:41,618 Completed caluculatesimilarity
+2020-02-23 23:52:41,618 Starting caluculatesimilarity
+2020-02-23 23:52:41,618 Generated vectors
+2020-02-23 23:52:41,618 Completed caluculatesimilarity
+2020-02-23 23:52:41,619 Starting caluculatesimilarity
+2020-02-23 23:52:41,619 Generated vectors
+2020-02-23 23:52:41,620 Completed caluculatesimilarity
+2020-02-23 23:52:41,620 Starting caluculatesimilarity
+2020-02-23 23:52:41,620 Generated vectors
+2020-02-23 23:52:41,620 Completed caluculatesimilarity
+2020-02-23 23:52:41,621 Completed find_cosine_similarity
+2020-02-23 23:52:41,621 Completed syntactic_similarity_operation
+2020-02-23 23:52:41,621 Starting display questions
+2020-02-23 23:52:41,621 Completed display questions
+2020-02-23 23:52:41,621 Starting create json
+2020-02-23 23:52:41,638 Completed create json
+2020-02-23 23:52:41,638 Starting createGraph
+2020-02-23 23:52:44,844 Completed createGraph
+2020-02-23 23:52:44,844 ==============================PROGRAM EXECUTION COMPLETED=======================
+2020-02-23 23:52:44,862 127.0.0.1 - - [23/Feb/2020 23:52:44] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-02-23 23:53:03,481  * Detected change in 'e:\\College\\Project_BE\\Product\\productui.py', reloading
+2020-02-23 23:53:04,815  * Restarting with stat
+2020-02-23 23:53:07,806  * Debugger is active!
+2020-02-23 23:53:07,815  * Debugger PIN: 274-271-534
+2020-02-23 23:53:07,823  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-02-23 23:53:08,728 127.0.0.1 - - [23/Feb/2020 23:53:08] "[37mGET / HTTP/1.1[0m" 200 -
+2020-02-23 23:53:13,335 =========================Starting Main===============================
+2020-02-23 23:53:13,335 Inside Main Menu
+2020-02-23 23:53:13,335 Starting determine_operation with input : E:\College\Project_BE\Product\input\techminputdata.csv
+2020-02-23 23:53:13,336 Completed determine_operation, file found
+2020-02-23 23:53:13,336 Starting readdatafromdb
+2020-02-23 23:53:13,344 Completed readdatafromdb
+2020-02-23 23:53:13,344 Starting syntactic_similarity_operation
+2020-02-23 23:53:13,344 Starting generate_stopwords_list
+2020-02-23 23:53:13,344 Completed generate_stopwords_list
+2020-02-23 23:53:13,344 Starting cleandata
+2020-02-23 23:53:13,360 Completed cleandata
+2020-02-23 23:53:13,360 Starting cleaninputquestion
+2020-02-23 23:53:13,360 Completed cleaninputquestion
+2020-02-23 23:53:13,360 Starting find_cosine_similarity
+2020-02-23 23:53:13,361 Starting caluculatesimilarity
+2020-02-23 23:53:13,361 Generated vectors
+2020-02-23 23:53:13,361 Completed caluculatesimilarity
+2020-02-23 23:53:13,361 Starting caluculatesimilarity
+2020-02-23 23:53:13,361 Generated vectors
+2020-02-23 23:53:13,361 Completed caluculatesimilarity
+2020-02-23 23:53:13,361 Starting caluculatesimilarity
+2020-02-23 23:53:13,361 Generated vectors
+2020-02-23 23:53:13,361 Completed caluculatesimilarity
+2020-02-23 23:53:13,361 Starting caluculatesimilarity
+2020-02-23 23:53:13,361 Generated vectors
+2020-02-23 23:53:13,361 Completed caluculatesimilarity
+2020-02-23 23:53:13,361 Starting caluculatesimilarity
+2020-02-23 23:53:13,361 Generated vectors
+2020-02-23 23:53:13,361 Completed caluculatesimilarity
+2020-02-23 23:53:13,361 Starting caluculatesimilarity
+2020-02-23 23:53:13,362 Generated vectors
+2020-02-23 23:53:13,362 Completed caluculatesimilarity
+2020-02-23 23:53:13,362 Starting caluculatesimilarity
+2020-02-23 23:53:13,362 Generated vectors
+2020-02-23 23:53:13,362 Completed caluculatesimilarity
+2020-02-23 23:53:13,362 Starting caluculatesimilarity
+2020-02-23 23:53:13,362 Generated vectors
+2020-02-23 23:53:13,362 Completed caluculatesimilarity
+2020-02-23 23:53:13,362 Starting caluculatesimilarity
+2020-02-23 23:53:13,362 Generated vectors
+2020-02-23 23:53:13,362 Completed caluculatesimilarity
+2020-02-23 23:53:13,362 Starting caluculatesimilarity
+2020-02-23 23:53:13,362 Generated vectors
+2020-02-23 23:53:13,362 Completed caluculatesimilarity
+2020-02-23 23:53:13,362 Starting caluculatesimilarity
+2020-02-23 23:53:13,362 Generated vectors
+2020-02-23 23:53:13,362 Completed caluculatesimilarity
+2020-02-23 23:53:13,362 Starting caluculatesimilarity
+2020-02-23 23:53:13,362 Generated vectors
+2020-02-23 23:53:13,363 Completed caluculatesimilarity
+2020-02-23 23:53:13,363 Starting caluculatesimilarity
+2020-02-23 23:53:13,363 Generated vectors
+2020-02-23 23:53:13,363 Completed caluculatesimilarity
+2020-02-23 23:53:13,363 Starting caluculatesimilarity
+2020-02-23 23:53:13,363 Generated vectors
+2020-02-23 23:53:13,363 Completed caluculatesimilarity
+2020-02-23 23:53:13,363 Starting caluculatesimilarity
+2020-02-23 23:53:13,363 Generated vectors
+2020-02-23 23:53:13,363 Completed caluculatesimilarity
+2020-02-23 23:53:13,363 Starting caluculatesimilarity
+2020-02-23 23:53:13,363 Generated vectors
+2020-02-23 23:53:13,363 Completed caluculatesimilarity
+2020-02-23 23:53:13,363 Starting caluculatesimilarity
+2020-02-23 23:53:13,363 Generated vectors
+2020-02-23 23:53:13,363 Completed caluculatesimilarity
+2020-02-23 23:53:13,363 Starting caluculatesimilarity
+2020-02-23 23:53:13,363 Generated vectors
+2020-02-23 23:53:13,364 Completed caluculatesimilarity
+2020-02-23 23:53:13,364 Starting caluculatesimilarity
+2020-02-23 23:53:13,364 Generated vectors
+2020-02-23 23:53:13,364 Completed caluculatesimilarity
+2020-02-23 23:53:13,364 Starting caluculatesimilarity
+2020-02-23 23:53:13,364 Generated vectors
+2020-02-23 23:53:13,364 Completed caluculatesimilarity
+2020-02-23 23:53:13,364 Starting caluculatesimilarity
+2020-02-23 23:53:13,364 Generated vectors
+2020-02-23 23:53:13,364 Completed caluculatesimilarity
+2020-02-23 23:53:13,364 Starting caluculatesimilarity
+2020-02-23 23:53:13,364 Generated vectors
+2020-02-23 23:53:13,364 Completed caluculatesimilarity
+2020-02-23 23:53:13,364 Starting caluculatesimilarity
+2020-02-23 23:53:13,364 Generated vectors
+2020-02-23 23:53:13,364 Completed caluculatesimilarity
+2020-02-23 23:53:13,364 Starting caluculatesimilarity
+2020-02-23 23:53:13,364 Generated vectors
+2020-02-23 23:53:13,364 Completed caluculatesimilarity
+2020-02-23 23:53:13,365 Starting caluculatesimilarity
+2020-02-23 23:53:13,365 Generated vectors
+2020-02-23 23:53:13,365 Completed caluculatesimilarity
+2020-02-23 23:53:13,365 Starting caluculatesimilarity
+2020-02-23 23:53:13,365 Generated vectors
+2020-02-23 23:53:13,365 Completed caluculatesimilarity
+2020-02-23 23:53:13,365 Starting caluculatesimilarity
+2020-02-23 23:53:13,365 Generated vectors
+2020-02-23 23:53:13,365 Completed caluculatesimilarity
+2020-02-23 23:53:13,365 Starting caluculatesimilarity
+2020-02-23 23:53:13,365 Generated vectors
+2020-02-23 23:53:13,365 Completed caluculatesimilarity
+2020-02-23 23:53:13,365 Starting caluculatesimilarity
+2020-02-23 23:53:13,365 Generated vectors
+2020-02-23 23:53:13,365 Completed caluculatesimilarity
+2020-02-23 23:53:13,365 Starting caluculatesimilarity
+2020-02-23 23:53:13,365 Generated vectors
+2020-02-23 23:53:13,365 Completed caluculatesimilarity
+2020-02-23 23:53:13,365 Completed find_cosine_similarity
+2020-02-23 23:53:13,366 Completed syntactic_similarity_operation
+2020-02-23 23:53:13,366 Starting display questions
+2020-02-23 23:53:13,366 Completed display questions
+2020-02-23 23:53:13,366 Starting create json
+2020-02-23 23:53:13,406 Completed create json
+2020-02-23 23:53:13,407 Starting createGraph
+2020-02-23 23:53:13,709 Completed createGraph
+2020-02-23 23:53:13,709 ==============================PROGRAM EXECUTION COMPLETED=======================
+2020-02-23 23:53:13,711 127.0.0.1 - - [23/Feb/2020 23:53:13] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-02-23 23:53:41,691 127.0.0.1 - - [23/Feb/2020 23:53:41] "[37mGET / HTTP/1.1[0m" 200 -
+2020-02-23 23:53:51,413 =========================Starting Main===============================
+2020-02-23 23:53:51,413 Inside Main Menu
+2020-02-23 23:53:51,413 Starting determine_operation with input : E:\College\Project_BE\Product\input\techminputdata.csv
+2020-02-23 23:53:51,414 Completed determine_operation, file found
+2020-02-23 23:53:51,414 Starting readdatafromdb
+2020-02-23 23:53:51,422 Completed readdatafromdb
+2020-02-23 23:53:51,422 Starting syntactic_similarity_operation
+2020-02-23 23:53:51,422 Starting generate_stopwords_list
+2020-02-23 23:53:51,423 Completed generate_stopwords_list
+2020-02-23 23:53:51,423 Starting cleandata
+2020-02-23 23:53:51,433 Completed cleandata
+2020-02-23 23:53:51,433 Starting cleaninputquestion
+2020-02-23 23:53:51,434 Completed cleaninputquestion
+2020-02-23 23:53:51,434 Starting find_cosine_similarity
+2020-02-23 23:53:51,434 Starting caluculatesimilarity
+2020-02-23 23:53:51,434 Generated vectors
+2020-02-23 23:53:51,434 Completed caluculatesimilarity
+2020-02-23 23:53:51,434 Starting caluculatesimilarity
+2020-02-23 23:53:51,434 Generated vectors
+2020-02-23 23:53:51,434 Completed caluculatesimilarity
+2020-02-23 23:53:51,434 Starting caluculatesimilarity
+2020-02-23 23:53:51,434 Generated vectors
+2020-02-23 23:53:51,434 Completed caluculatesimilarity
+2020-02-23 23:53:51,434 Starting caluculatesimilarity
+2020-02-23 23:53:51,434 Generated vectors
+2020-02-23 23:53:51,435 Completed caluculatesimilarity
+2020-02-23 23:53:51,435 Starting caluculatesimilarity
+2020-02-23 23:53:51,435 Generated vectors
+2020-02-23 23:53:51,435 Completed caluculatesimilarity
+2020-02-23 23:53:51,435 Starting caluculatesimilarity
+2020-02-23 23:53:51,435 Generated vectors
+2020-02-23 23:53:51,435 Completed caluculatesimilarity
+2020-02-23 23:53:51,435 Starting caluculatesimilarity
+2020-02-23 23:53:51,435 Generated vectors
+2020-02-23 23:53:51,435 Completed caluculatesimilarity
+2020-02-23 23:53:51,435 Starting caluculatesimilarity
+2020-02-23 23:53:51,435 Generated vectors
+2020-02-23 23:53:51,435 Completed caluculatesimilarity
+2020-02-23 23:53:51,435 Starting caluculatesimilarity
+2020-02-23 23:53:51,435 Generated vectors
+2020-02-23 23:53:51,435 Completed caluculatesimilarity
+2020-02-23 23:53:51,435 Starting caluculatesimilarity
+2020-02-23 23:53:51,435 Generated vectors
+2020-02-23 23:53:51,436 Completed caluculatesimilarity
+2020-02-23 23:53:51,436 Starting caluculatesimilarity
+2020-02-23 23:53:51,436 Generated vectors
+2020-02-23 23:53:51,436 Completed caluculatesimilarity
+2020-02-23 23:53:51,436 Starting caluculatesimilarity
+2020-02-23 23:53:51,436 Generated vectors
+2020-02-23 23:53:51,436 Completed caluculatesimilarity
+2020-02-23 23:53:51,436 Starting caluculatesimilarity
+2020-02-23 23:53:51,436 Generated vectors
+2020-02-23 23:53:51,436 Completed caluculatesimilarity
+2020-02-23 23:53:51,436 Starting caluculatesimilarity
+2020-02-23 23:53:51,436 Generated vectors
+2020-02-23 23:53:51,436 Completed caluculatesimilarity
+2020-02-23 23:53:51,436 Starting caluculatesimilarity
+2020-02-23 23:53:51,436 Generated vectors
+2020-02-23 23:53:51,436 Completed caluculatesimilarity
+2020-02-23 23:53:51,436 Starting caluculatesimilarity
+2020-02-23 23:53:51,436 Generated vectors
+2020-02-23 23:53:51,437 Completed caluculatesimilarity
+2020-02-23 23:53:51,437 Starting caluculatesimilarity
+2020-02-23 23:53:51,437 Generated vectors
+2020-02-23 23:53:51,437 Completed caluculatesimilarity
+2020-02-23 23:53:51,437 Starting caluculatesimilarity
+2020-02-23 23:53:51,437 Generated vectors
+2020-02-23 23:53:51,437 Completed caluculatesimilarity
+2020-02-23 23:53:51,437 Starting caluculatesimilarity
+2020-02-23 23:53:51,437 Generated vectors
+2020-02-23 23:53:51,437 Completed caluculatesimilarity
+2020-02-23 23:53:51,437 Starting caluculatesimilarity
+2020-02-23 23:53:51,437 Generated vectors
+2020-02-23 23:53:51,437 Completed caluculatesimilarity
+2020-02-23 23:53:51,437 Starting caluculatesimilarity
+2020-02-23 23:53:51,437 Generated vectors
+2020-02-23 23:53:51,437 Completed caluculatesimilarity
+2020-02-23 23:53:51,437 Starting caluculatesimilarity
+2020-02-23 23:53:51,437 Generated vectors
+2020-02-23 23:53:51,438 Completed caluculatesimilarity
+2020-02-23 23:53:51,438 Starting caluculatesimilarity
+2020-02-23 23:53:51,438 Generated vectors
+2020-02-23 23:53:51,438 Completed caluculatesimilarity
+2020-02-23 23:53:51,438 Starting caluculatesimilarity
+2020-02-23 23:53:51,438 Generated vectors
+2020-02-23 23:53:51,438 Completed caluculatesimilarity
+2020-02-23 23:53:51,438 Starting caluculatesimilarity
+2020-02-23 23:53:51,438 Generated vectors
+2020-02-23 23:53:51,438 Completed caluculatesimilarity
+2020-02-23 23:53:51,438 Starting caluculatesimilarity
+2020-02-23 23:53:51,438 Generated vectors
+2020-02-23 23:53:51,439 Completed caluculatesimilarity
+2020-02-23 23:53:51,439 Starting caluculatesimilarity
+2020-02-23 23:53:51,439 Generated vectors
+2020-02-23 23:53:51,439 Completed caluculatesimilarity
+2020-02-23 23:53:51,439 Starting caluculatesimilarity
+2020-02-23 23:53:51,439 Generated vectors
+2020-02-23 23:53:51,439 Completed caluculatesimilarity
+2020-02-23 23:53:51,439 Starting caluculatesimilarity
+2020-02-23 23:53:51,439 Generated vectors
+2020-02-23 23:53:51,439 Completed caluculatesimilarity
+2020-02-23 23:53:51,439 Starting caluculatesimilarity
+2020-02-23 23:53:51,439 Generated vectors
+2020-02-23 23:53:51,439 Completed caluculatesimilarity
+2020-02-23 23:53:51,439 Completed find_cosine_similarity
+2020-02-23 23:53:51,439 Completed syntactic_similarity_operation
+2020-02-23 23:53:51,439 Starting display questions
+2020-02-23 23:53:51,440 Completed display questions
+2020-02-23 23:53:51,440 Starting create json
+2020-02-23 23:53:51,440 Completed create json
+2020-02-23 23:53:51,441 Starting createGraph
+2020-02-23 23:53:51,565 Completed createGraph
+2020-02-23 23:53:51,566 ==============================PROGRAM EXECUTION COMPLETED=======================
+2020-02-23 23:53:51,566 127.0.0.1 - - [23/Feb/2020 23:53:51] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-03-20 20:18:56,351  * Restarting with stat
+2020-03-20 20:19:00,607  * Debugger is active!
+2020-03-20 20:19:00,615  * Debugger PIN: 274-271-534
+2020-03-20 20:19:00,626  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-20 20:19:22,074 127.0.0.1 - - [20/Mar/2020 20:19:22] "[37mGET / HTTP/1.1[0m" 200 -
+2020-03-20 20:19:25,714 =========================Starting Main===============================
+2020-03-20 20:19:25,714 Inside Main Menu
+2020-03-20 20:19:25,714 Starting determine_operation with input : E:\College\Project_BE\Product\input\techminputdata.csv
+2020-03-20 20:19:25,762 Completed determine_operation, file found
+2020-03-20 20:19:25,763 Starting readdatafromdb
+2020-03-20 20:19:26,182 Completed readdatafromdb
+2020-03-20 20:19:26,183 Starting syntactic_similarity_operation
+2020-03-20 20:19:26,183 Starting generate_stopwords_list
+2020-03-20 20:19:26,183 Completed generate_stopwords_list
+2020-03-20 20:19:26,183 Starting cleandata
+2020-03-20 20:19:26,217 Completed cleandata
+2020-03-20 20:19:26,217 Starting cleaninputquestion
+2020-03-20 20:19:26,217 Completed cleaninputquestion
+2020-03-20 20:19:26,218 Starting find_cosine_similarity
+2020-03-20 20:19:26,218 Starting caluculatesimilarity
+2020-03-20 20:19:26,218 Generated vectors
+2020-03-20 20:19:26,218 Completed caluculatesimilarity
+2020-03-20 20:19:26,218 Starting caluculatesimilarity
+2020-03-20 20:19:26,218 Generated vectors
+2020-03-20 20:19:26,218 Completed caluculatesimilarity
+2020-03-20 20:19:26,218 Starting caluculatesimilarity
+2020-03-20 20:19:26,218 Generated vectors
+2020-03-20 20:19:26,218 Completed caluculatesimilarity
+2020-03-20 20:19:26,218 Starting caluculatesimilarity
+2020-03-20 20:19:26,218 Generated vectors
+2020-03-20 20:19:26,218 Completed caluculatesimilarity
+2020-03-20 20:19:26,218 Starting caluculatesimilarity
+2020-03-20 20:19:26,218 Generated vectors
+2020-03-20 20:19:26,219 Completed caluculatesimilarity
+2020-03-20 20:19:26,219 Starting caluculatesimilarity
+2020-03-20 20:19:26,219 Generated vectors
+2020-03-20 20:19:26,219 Completed caluculatesimilarity
+2020-03-20 20:19:26,219 Starting caluculatesimilarity
+2020-03-20 20:19:26,219 Generated vectors
+2020-03-20 20:19:26,219 Completed caluculatesimilarity
+2020-03-20 20:19:26,219 Starting caluculatesimilarity
+2020-03-20 20:19:26,219 Generated vectors
+2020-03-20 20:19:26,219 Completed caluculatesimilarity
+2020-03-20 20:19:26,219 Starting caluculatesimilarity
+2020-03-20 20:19:26,219 Generated vectors
+2020-03-20 20:19:26,219 Completed caluculatesimilarity
+2020-03-20 20:19:26,219 Starting caluculatesimilarity
+2020-03-20 20:19:26,219 Generated vectors
+2020-03-20 20:19:26,219 Completed caluculatesimilarity
+2020-03-20 20:19:26,219 Starting caluculatesimilarity
+2020-03-20 20:19:26,219 Generated vectors
+2020-03-20 20:19:26,220 Completed caluculatesimilarity
+2020-03-20 20:19:26,220 Starting caluculatesimilarity
+2020-03-20 20:19:26,220 Generated vectors
+2020-03-20 20:19:26,220 Completed caluculatesimilarity
+2020-03-20 20:19:26,220 Starting caluculatesimilarity
+2020-03-20 20:19:26,220 Generated vectors
+2020-03-20 20:19:26,220 Completed caluculatesimilarity
+2020-03-20 20:19:26,220 Starting caluculatesimilarity
+2020-03-20 20:19:26,220 Generated vectors
+2020-03-20 20:19:26,220 Completed caluculatesimilarity
+2020-03-20 20:19:26,220 Starting caluculatesimilarity
+2020-03-20 20:19:26,220 Generated vectors
+2020-03-20 20:19:26,220 Completed caluculatesimilarity
+2020-03-20 20:19:26,221 Starting caluculatesimilarity
+2020-03-20 20:19:26,221 Generated vectors
+2020-03-20 20:19:26,221 Completed caluculatesimilarity
+2020-03-20 20:19:26,221 Starting caluculatesimilarity
+2020-03-20 20:19:26,221 Generated vectors
+2020-03-20 20:19:26,221 Completed caluculatesimilarity
+2020-03-20 20:19:26,221 Starting caluculatesimilarity
+2020-03-20 20:19:26,221 Generated vectors
+2020-03-20 20:19:26,222 Completed caluculatesimilarity
+2020-03-20 20:19:26,222 Starting caluculatesimilarity
+2020-03-20 20:19:26,222 Generated vectors
+2020-03-20 20:19:26,222 Completed caluculatesimilarity
+2020-03-20 20:19:26,222 Starting caluculatesimilarity
+2020-03-20 20:19:26,222 Generated vectors
+2020-03-20 20:19:26,222 Completed caluculatesimilarity
+2020-03-20 20:19:26,222 Starting caluculatesimilarity
+2020-03-20 20:19:26,222 Generated vectors
+2020-03-20 20:19:26,222 Completed caluculatesimilarity
+2020-03-20 20:19:26,222 Starting caluculatesimilarity
+2020-03-20 20:19:26,222 Generated vectors
+2020-03-20 20:19:26,222 Completed caluculatesimilarity
+2020-03-20 20:19:26,223 Starting caluculatesimilarity
+2020-03-20 20:19:26,223 Generated vectors
+2020-03-20 20:19:26,223 Completed caluculatesimilarity
+2020-03-20 20:19:26,223 Starting caluculatesimilarity
+2020-03-20 20:19:26,223 Generated vectors
+2020-03-20 20:19:26,223 Completed caluculatesimilarity
+2020-03-20 20:19:26,223 Starting caluculatesimilarity
+2020-03-20 20:19:26,223 Generated vectors
+2020-03-20 20:19:26,223 Completed caluculatesimilarity
+2020-03-20 20:19:26,223 Starting caluculatesimilarity
+2020-03-20 20:19:26,223 Generated vectors
+2020-03-20 20:19:26,223 Completed caluculatesimilarity
+2020-03-20 20:19:26,223 Starting caluculatesimilarity
+2020-03-20 20:19:26,223 Generated vectors
+2020-03-20 20:19:26,223 Completed caluculatesimilarity
+2020-03-20 20:19:26,223 Starting caluculatesimilarity
+2020-03-20 20:19:26,223 Generated vectors
+2020-03-20 20:19:26,224 Completed caluculatesimilarity
+2020-03-20 20:19:26,224 Starting caluculatesimilarity
+2020-03-20 20:19:26,224 Generated vectors
+2020-03-20 20:19:26,224 Completed caluculatesimilarity
+2020-03-20 20:19:26,224 Starting caluculatesimilarity
+2020-03-20 20:19:26,224 Generated vectors
+2020-03-20 20:19:26,224 Completed caluculatesimilarity
+2020-03-20 20:19:26,225 Completed find_cosine_similarity
+2020-03-20 20:19:26,225 Completed syntactic_similarity_operation
+2020-03-20 20:19:26,225 Starting display questions
+2020-03-20 20:19:26,225 Completed display questions
+2020-03-20 20:19:26,225 Starting create json
+2020-03-20 20:19:26,246 Completed create json
+2020-03-20 20:19:26,246 Starting createGraph
+2020-03-20 20:19:28,124 Completed createGraph
+2020-03-20 20:19:28,124 ==============================PROGRAM EXECUTION COMPLETED=======================
+2020-03-20 20:19:28,138 127.0.0.1 - - [20/Mar/2020 20:19:28] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-04-16 23:57:47,815  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-04-16 23:57:47,815  * Restarting with stat
+2020-04-16 23:57:49,090  * Debugger is active!
+2020-04-16 23:57:49,090  * Debugger PIN: 334-278-228
+2020-04-16 23:58:09,263 127.0.0.1 - - [16/Apr/2020 23:58:09] "[37mGET / HTTP/1.1[0m" 200 -
+2020-04-16 23:58:19,395 =========================Starting Main===============================
+2020-04-16 23:58:19,395 Inside Main Menu
+2020-04-16 23:58:19,395 Starting determine_operation with input : E:\College\Project_BE\Product\input\techminputdata.csv
+2020-04-16 23:58:19,395 Completed determine_operation, file found
+2020-04-16 23:58:19,395 Starting readdatafromdb
+2020-04-16 23:58:19,396 Unable to open file : E:\College\Project_BE\Product\input\techminputdata.csv
+2020-04-16 23:58:19,396 Completed readdatafromdb
+2020-04-16 23:58:19,396 Starting syntactic_similarity_operation
+2020-04-16 23:58:19,396 Starting generate_stopwords_list
+2020-04-16 23:58:19,396 Completed generate_stopwords_list
+2020-04-16 23:58:19,396 Starting cleandata
+2020-04-16 23:58:19,396 Completed cleandata
+2020-04-16 23:58:19,396 Starting cleaninputquestion
+2020-04-16 23:58:19,404 Completed cleaninputquestion
+2020-04-16 23:58:19,404 Starting find_cosine_similarity
+2020-04-16 23:58:19,404 Completed find_cosine_similarity
+2020-04-16 23:58:19,404 Completed syntactic_similarity_operation
+2020-04-16 23:58:19,404 Starting display questions
+2020-04-16 23:58:19,404 Completed display questions
+2020-04-16 23:58:19,410 127.0.0.1 - - [16/Apr/2020 23:58:19] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2020-04-16 23:58:19,432 127.0.0.1 - - [16/Apr/2020 23:58:19] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-04-16 23:58:19,435 127.0.0.1 - - [16/Apr/2020 23:58:19] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-04-16 23:58:19,441 127.0.0.1 - - [16/Apr/2020 23:58:19] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-04-16 23:58:19,500 127.0.0.1 - - [16/Apr/2020 23:58:19] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-04-16 23:58:19,527 127.0.0.1 - - [16/Apr/2020 23:58:19] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -

@@ -1,0 +1,6 @@
+What is the leave procedure ?
+/home/shriniwas/BE/BEProj/LearnLambda/input/testoneinputdata1.csv
+Who started the Veturino project ?
+/home/shriniwas/BE/BEProj/LearnLambda/input/testoneinputdata2.csv
+When will I get my first salary ?
+/home/shriniwas/BE/BEProj/LearnLambda/input/testoneinputdata3.csv

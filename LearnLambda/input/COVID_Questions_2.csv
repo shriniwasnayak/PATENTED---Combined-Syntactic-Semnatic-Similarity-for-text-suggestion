@@ -1,0 +1,59 @@
+ID,Title,Question,Link,Rank
+1,Information,What is Covid19?,https://www.who.int/health-topics/coronavirus#tab=tab_1,
+2,Information,Where did COVID19 first start ?,,
+3,Information,Is bat soup responsible for spread of COVID-19 ?,,
+4,Information,When will COVID-19 be over ?,,
+5,Information,When can we see the normal world again ?,,
+6,Information,Is aarogya setu app necessary for air travel ?,,
+7,Information,How to download aarogya setu ?,https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN,
+8,Information,How helpful is aarogya setu app ?,https://www.indiatoday.in/technology/features/story/how-aarogya-setu-works-and-how-it-compares-to-contact-tracing-apps-in-other-countries-1674966-2020-05-06,
+9,Information,Are any other apps useful to fight corona ?,https://www.geospatialworld.net/blogs/top-indian-apps-to-fight-covid-19/,
+10,Information,What is the full form of COVID19 ?,,
+11,Information,Is SARS and MERS related to COVID19 ?,,
+12,Information,Is SARS treatable ?,,
+13,Information,Is MERS treatable ?,,
+14,Information,What is fatality rate due to COVID19 ?,,
+15,Information,What is the recovery rate in COVID19 ?,,
+16,Information,Does drinking hot water help in recovery ?,,
+17,Information,Is the use of turmeric proven to fight COVID19 ?,,
+18,Information,Should tulsi be consumed to fight COVID19 ?,,
+19,Information,Best home medicine for COVID19,,
+21,Treatment,Is there any cure for COVID19 ?,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters,
+22,Treatment,Are there vaccines available for COVID-19 ?,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters,6
+23,Treatment,How long will it take for coronavirus vaccine,,2
+24,Treatment,Are there any existing treatments available for COVID-19?,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters,
+25,Treatment,Can hydroxychloroquine (HCQ) treat coronavirus?,https://www.medrxiv.org/content/10.1101/2020.03.22.20040758v3,
+26,Treatment,When will a vaccine be developed for covid?,,5
+27,Treatment,Can homeopathy treat covid19?,,
+28,Treatment,What stage is the clinical trial for the vaccine in?,,
+29,Treatment,How many phases are needed for a vaccine to be developed,,4
+30,Treatment,Are there any vaccines in clinical trial?,,1
+31,Treatment,What is the status of vaccine developed by Israel?,,3
+32,Treatment,Is India developing any vaccine for COVID?,,8
+33,Treatment,What drugs can treat corona?,,
+34,Treatment,Will there be a vaccine for covid 19?,,7
+35,Treatment,How many HCQ tablets must be taken to avoid coronavirus,,
+36,Treatment,What does HCQ contain?,https://en.wikipedia.org/wiki/Hydroxychloroquine,
+37,Treatment,Does AYUSH provide in ayurvedic medicine for novel coronavirus?,,
+38,Treatment,Do antibodies get generated in a body after recovery from coronavirus?,,
+39,Treatment,How effective is plasma therapy for treating coronavirus?,,
+40,Treatment,Is remdesivir curing people from Covid ?,,
+41,Travel,What is the risk of getting COVID-19 on airplane?,https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html,
+42,Travel,What happens if there is a sick passenger on the flight?,https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html,
+43,Travel,What precautions should be taken during travel ?,,
+44,Statistics,Where can I find statistics about Covid-19,https://www.worldometers.info/coronavirus/,
+46,Statistics,Which State is most affected by Covid-19 in India,,
+47,Travel,What means of transport can we use in India,,
+48,Impact,How has Covid-19 affected the GDP of India,,
+49,Impact,How many people have lost jobs due to Covid-19,,
+50,Impact,How have the Migrant workers responded to the lockdown in India,,37
+51,Lockdown,When did the lockdown start in India ?,https://en.wikipedia.org/wiki/Economic_impact_of_the_COVID-19_pandemic_in_India#Agriculture,
+52,Lockdown,What services were open during the Lockdown,,36
+53,Spreading,Can Covid-19 spread through water?,https://www.cdc.gov/coronavirus/2019-ncov/faq.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fphp%2Fwater.html#COVID-19-and-Water,
+54,Spreading,Can the virus spread through air ?,,
+55,Spreading,Can I become infected from my pets,,40
+56,Spreading,Can this virus infect me through my phone screen,,
+57,Statistics,Which age group is most affected my Covid-19,,
+58,Lockdown,What is the time period in which people can go out during Lockdown,,39
+59,Lockdown,What are the restriction on the movement of Old people and young children,,
+60,Lockdown,Are schools and colleges open during Lockdown ?,,38

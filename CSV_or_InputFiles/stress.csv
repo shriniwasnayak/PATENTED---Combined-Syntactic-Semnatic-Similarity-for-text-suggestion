@@ -1,0 +1,8 @@
+System,Input,Output,Result
+,,,
+Syntactic Similarity,26K questions in data file,Result generated with lag of 16.486 sec,PASS
+Semantic Similarity,26K questions in data file,Result generated with lag of 83.638 sec,PASS
+Database Tagging System (Syntactic DB),26K questions in data file,Result generated with lag of 16.621 sec,PASS
+Database Tagging System (Semantic DB),26K questions in data file,Result generated with lag of 83.837 sec,PASS
+Static Lambda,26K questions in data file,Result generated with lag of 90.337 sec,PASS
+Self Learning Lambda,8 files in driver files,Result generated with lag of 102.337 sec,PASS

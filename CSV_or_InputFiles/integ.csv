@@ -1,0 +1,12 @@
+System,Test Input,Output,Result
+,,,
+Syntactic similarity,"Database file name, input question","list of similar questions on console, json file, log file, similarity graph",PASS
+Syntactic similarity,"Non existent file name (“ABC”), input question",log file : Unable to open file “ABC”,PASS
+Semantic Similarity,"Database file name, input question","list of similar questions on console, json file, log file, similarity graph",PASS
+Semantic Similarity,"Non existent file name (“ABC”), input question",log file : Unable to open file “ABC”,PASS
+Database Tagging,"Tag file name, input question","list of similar questions on UI, json file, log file, similarity graph",PASS
+Database Tagging,"Non existent file name (“ABC”), input question",Raise error ask for input again on console,PASS
+Self Learning Lambda,Database file name,"optimum value of lambda on console, observation file, analysis graphs",PASS
+Self Learning Lambda,Non existent file name (“ABC”),log file : Unable to open file “ABC”,PASS
+Static Lambda,Database file name,"list of similar questions on UI, json file, log file, similarity graph",PASS
+Static Lambda,Non existent file name (“ABC”),log file : Unable to open file “ABC”,PASS

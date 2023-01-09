@@ -1,0 +1,4 @@
+Can you tell me your age ?
+/home/shriniwas/BE/BEProj/LearnLambda/input/semanticinputdata1.csv
+Find solution to this problem ?
+/home/shriniwas/BE/BEProj/LearnLambda/input/semanticinputdata3.csv

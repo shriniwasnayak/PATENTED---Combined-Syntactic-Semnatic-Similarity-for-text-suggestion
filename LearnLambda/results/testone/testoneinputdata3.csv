@@ -1,0 +1,21 @@
+ID,Title,Question,Rank
+1,Semantic,What is the procedure to change my project ?,
+2,Syntactic,Where does the HR department sit ?,
+3,Semantic,How to apply for a leave when manager is absent ?,4
+4,Semantic,Can i apply for advance salary ?,2
+5,Syntactic,Where does Veturino team sit ?,
+6,Syntactic,Who is the head of Veturion team ?,
+7,Semantic,Which canteen is best to eat ?,
+8,Semantic,How many canteens are present in the premisis ?,
+9,Semantic,How long is the probation period ?,
+10,Semantic,Can I change my team ?,
+11,Semantic,Can I send my work on personal email ID ?,
+12,Syntactic,When was Veturino project started ?,
+13,Semantic,Is it necessary to apply for leave in advance ?,
+14,Semantic,How many sick leaves are provided ?,
+15,Syntactic,"I am interested in Entellio development, where can I contact ?",
+16,Syntactic,Which department looks after Entellio,
+17,Syntactic,Is entellio project completed,
+18,Semantic,Salary is credited on which date ?,1
+19,Semantic,Account in which bank is required ,3
+20,Syntactic,When will be Veturino project completed ?,

@@ -1,0 +1,221 @@
+2020-03-16 00:16:16,300 =========================Starting MAIN===============================
+2020-03-16 00:16:16,300 Starting readdatafromdb
+2020-03-16 00:16:16,308 Completed readdatafromdb
+2020-03-16 00:16:16,308 Starting generate_stopwords_list
+2020-03-16 00:16:16,308 Completed generate_stopwords_list
+2020-03-16 00:16:16,309 Starting cleandata
+2020-03-16 00:16:16,317 Completed cleandata
+2020-03-16 00:17:11,829 =========================Starting MAIN===============================
+2020-03-16 00:17:11,829 Starting readdatafromdb
+2020-03-16 00:17:11,832 Completed readdatafromdb
+2020-03-16 00:17:11,832 Starting generate_stopwords_list
+2020-03-16 00:17:11,832 Completed generate_stopwords_list
+2020-03-16 00:17:11,832 Starting cleandata
+2020-03-16 00:17:11,840 Completed cleandata
+2020-03-16 00:17:11,840 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:17:36,000 =========================Starting MAIN===============================
+2020-03-16 00:17:36,000 Starting readdatafromdb
+2020-03-16 00:17:36,003 Completed readdatafromdb
+2020-03-16 00:17:36,004 Starting generate_stopwords_list
+2020-03-16 00:17:36,004 Completed generate_stopwords_list
+2020-03-16 00:17:36,004 Starting cleandata
+2020-03-16 00:17:36,011 Completed cleandata
+2020-03-16 00:17:36,011 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:36:32,172 =========================Starting MAIN===============================
+2020-03-16 00:36:32,172 Starting readdatafromdb
+2020-03-16 00:36:32,176 Completed readdatafromdb
+2020-03-16 00:36:32,176 Starting cleandata
+2020-03-16 00:36:32,182 Completed cleandata
+2020-03-16 00:45:17,623 =========================Starting MAIN===============================
+2020-03-16 00:45:17,623 Starting readdatafromdb
+2020-03-16 00:45:17,627 Completed readdatafromdb
+2020-03-16 00:45:17,627 Starting cleandata
+2020-03-16 00:45:17,634 Completed cleandata
+2020-03-16 00:45:34,631 =========================Starting MAIN===============================
+2020-03-16 00:45:34,631 Starting readdatafromdb
+2020-03-16 00:45:34,635 Completed readdatafromdb
+2020-03-16 00:45:34,635 Starting cleandata
+2020-03-16 00:45:34,641 Completed cleandata
+2020-03-16 00:45:58,145 =========================Starting MAIN===============================
+2020-03-16 00:45:58,145 Starting readdatafromdb
+2020-03-16 00:45:58,149 Completed readdatafromdb
+2020-03-16 00:45:58,149 Starting cleandata
+2020-03-16 00:45:58,156 Completed cleandata
+2020-03-16 00:46:14,816 =========================Starting MAIN===============================
+2020-03-16 00:46:14,816 Starting readdatafromdb
+2020-03-16 00:46:14,819 Completed readdatafromdb
+2020-03-16 00:46:14,820 Starting cleandata
+2020-03-16 00:46:14,826 Completed cleandata
+2020-03-16 00:46:14,827 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:51:47,422 =========================Starting MAIN===============================
+2020-03-16 00:51:47,422 Starting readdatafromdb
+2020-03-16 00:51:47,429 Completed readdatafromdb
+2020-03-16 00:51:47,429 Starting cleandata
+2020-03-16 00:51:47,441 Completed cleandata
+2020-03-16 00:52:49,363 =========================Starting MAIN===============================
+2020-03-16 00:52:49,363 Starting readdatafromdb
+2020-03-16 00:52:49,367 Completed readdatafromdb
+2020-03-16 00:52:49,367 Starting cleandata
+2020-03-16 00:52:49,375 Completed cleandata
+2020-03-16 00:53:21,052 =========================Starting MAIN===============================
+2020-03-16 00:53:21,052 Starting readdatafromdb
+2020-03-16 00:53:21,056 Completed readdatafromdb
+2020-03-16 00:53:21,056 Starting cleandata
+2020-03-16 00:53:21,062 Completed cleandata
+2020-03-16 00:53:21,063 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:56:14,282 =========================Starting MAIN===============================
+2020-03-16 00:56:14,282 Starting readdatafromdb
+2020-03-16 00:56:14,285 Completed readdatafromdb
+2020-03-16 00:56:14,286 Starting cleandata
+2020-03-16 00:56:14,294 Completed cleandata
+2020-03-16 00:56:14,294 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:56:33,765 =========================Starting MAIN===============================
+2020-03-16 00:56:33,765 Starting readdatafromdb
+2020-03-16 00:56:33,769 Completed readdatafromdb
+2020-03-16 00:56:33,769 Starting cleandata
+2020-03-16 00:56:33,775 Completed cleandata
+2020-03-16 00:56:33,775 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:56:35,984 =========================Starting MAIN===============================
+2020-03-16 00:56:35,984 Starting readdatafromdb
+2020-03-16 00:56:35,990 Completed readdatafromdb
+2020-03-16 00:56:35,990 Starting cleandata
+2020-03-16 00:56:35,998 Completed cleandata
+2020-03-16 00:56:35,998 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:56:38,003 =========================Starting MAIN===============================
+2020-03-16 00:56:38,003 Starting readdatafromdb
+2020-03-16 00:56:38,006 Completed readdatafromdb
+2020-03-16 00:56:38,006 Starting cleandata
+2020-03-16 00:56:38,013 Completed cleandata
+2020-03-16 00:56:38,013 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:56:40,047 =========================Starting MAIN===============================
+2020-03-16 00:56:40,047 Starting readdatafromdb
+2020-03-16 00:56:40,051 Completed readdatafromdb
+2020-03-16 00:56:40,051 Starting cleandata
+2020-03-16 00:56:40,059 Completed cleandata
+2020-03-16 00:56:40,059 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:56:42,146 =========================Starting MAIN===============================
+2020-03-16 00:56:42,146 Starting readdatafromdb
+2020-03-16 00:56:42,149 Completed readdatafromdb
+2020-03-16 00:56:42,150 Starting cleandata
+2020-03-16 00:56:42,156 Completed cleandata
+2020-03-16 00:56:42,156 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:57:32,971 =========================Starting MAIN===============================
+2020-03-16 00:57:32,971 Starting readdatafromdb
+2020-03-16 00:57:32,975 Completed readdatafromdb
+2020-03-16 00:57:32,975 Starting cleandata
+2020-03-16 00:57:32,981 Completed cleandata
+2020-03-16 00:57:32,982 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:59:27,720 =========================Starting MAIN===============================
+2020-03-16 00:59:27,721 Starting readdatafromdb
+2020-03-16 00:59:27,724 Completed readdatafromdb
+2020-03-16 00:59:27,724 Starting cleandata
+2020-03-16 00:59:27,731 Completed cleandata
+2020-03-16 00:59:27,731 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 00:59:43,946 =========================Starting MAIN===============================
+2020-03-16 00:59:43,946 Starting readdatafromdb
+2020-03-16 00:59:43,950 Completed readdatafromdb
+2020-03-16 00:59:43,950 Starting cleandata
+2020-03-16 00:59:43,957 Completed cleandata
+2020-03-16 00:59:43,957 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 01:00:42,267 =========================Starting MAIN===============================
+2020-03-16 01:00:42,267 Starting readdatafromdb
+2020-03-16 01:00:42,271 Completed readdatafromdb
+2020-03-16 01:00:42,271 Starting cleandata
+2020-03-16 01:00:42,277 Completed cleandata
+2020-03-16 01:00:42,277 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 01:01:22,355 =========================Starting MAIN===============================
+2020-03-16 01:01:22,355 Starting readdatafromdb
+2020-03-16 01:01:22,359 Completed readdatafromdb
+2020-03-16 01:01:22,359 Starting cleandata
+2020-03-16 01:01:22,366 Completed cleandata
+2020-03-16 01:01:22,366 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 01:01:57,963 =========================Starting MAIN===============================
+2020-03-16 01:01:57,963 Starting readdatafromdb
+2020-03-16 01:01:57,967 Completed readdatafromdb
+2020-03-16 01:01:57,967 Starting cleandata
+2020-03-16 01:01:57,973 Completed cleandata
+2020-03-16 01:01:57,973 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 01:02:31,266 =========================Starting MAIN===============================
+2020-03-16 01:02:31,266 Starting readdatafromdb
+2020-03-16 01:02:31,270 Completed readdatafromdb
+2020-03-16 01:02:31,270 Starting cleandata
+2020-03-16 01:02:31,276 Completed cleandata
+2020-03-16 01:02:31,277 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:09:22,892 =========================Starting MAIN===============================
+2020-03-16 12:09:22,893 Starting readdatafromdb
+2020-03-16 12:09:22,903 Completed readdatafromdb
+2020-03-16 12:09:22,903 Starting cleandata
+2020-03-16 12:09:22,917 Completed cleandata
+2020-03-16 12:09:22,918 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:18:21,523 =========================Starting MAIN===============================
+2020-03-16 12:18:21,523 Starting readdatafromdb
+2020-03-16 12:18:21,530 Completed readdatafromdb
+2020-03-16 12:18:21,531 Starting cleandata
+2020-03-16 12:18:21,537 Completed cleandata
+2020-03-16 12:18:21,537 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:18:49,670 =========================Starting MAIN===============================
+2020-03-16 12:18:49,670 Starting readdatafromdb
+2020-03-16 12:18:49,674 Completed readdatafromdb
+2020-03-16 12:18:49,674 Starting cleandata
+2020-03-16 12:18:49,682 Completed cleandata
+2020-03-16 12:18:49,682 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:19:03,001 =========================Starting MAIN===============================
+2020-03-16 12:19:03,001 Starting readdatafromdb
+2020-03-16 12:19:03,007 Completed readdatafromdb
+2020-03-16 12:19:03,007 Starting cleandata
+2020-03-16 12:19:03,017 Completed cleandata
+2020-03-16 12:19:03,017 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:19:24,725 =========================Starting MAIN===============================
+2020-03-16 12:19:24,725 Starting readdatafromdb
+2020-03-16 12:19:24,729 Completed readdatafromdb
+2020-03-16 12:19:24,729 Starting cleandata
+2020-03-16 12:19:24,736 Completed cleandata
+2020-03-16 12:19:24,736 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:20:04,226 =========================Starting MAIN===============================
+2020-03-16 12:20:04,226 Starting readdatafromdb
+2020-03-16 12:20:04,233 Completed readdatafromdb
+2020-03-16 12:20:04,233 Starting cleandata
+2020-03-16 12:20:04,246 Completed cleandata
+2020-03-16 12:20:04,246 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:20:50,960 =========================Starting MAIN===============================
+2020-03-16 12:20:50,960 Starting readdatafromdb
+2020-03-16 12:20:50,963 Completed readdatafromdb
+2020-03-16 12:20:50,964 Starting cleandata
+2020-03-16 12:20:50,971 Completed cleandata
+2020-03-16 12:20:50,971 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:22:09,709 =========================Starting MAIN===============================
+2020-03-16 12:22:09,709 Starting readdatafromdb
+2020-03-16 12:22:09,714 Completed readdatafromdb
+2020-03-16 12:22:09,714 Starting cleandata
+2020-03-16 12:22:09,721 Completed cleandata
+2020-03-16 12:22:09,722 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:22:56,410 =========================Starting MAIN===============================
+2020-03-16 12:22:56,410 Starting readdatafromdb
+2020-03-16 12:22:56,414 Completed readdatafromdb
+2020-03-16 12:22:56,414 Starting cleandata
+2020-03-16 12:22:56,421 Completed cleandata
+2020-03-16 12:22:56,421 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:23:57,025 =========================Starting MAIN===============================
+2020-03-16 12:23:57,025 Starting readdatafromdb
+2020-03-16 12:23:57,740 Completed readdatafromdb
+2020-03-16 12:23:57,741 Starting cleandata
+2020-03-16 12:24:00,835 Completed cleandata
+2020-03-16 12:24:01,235 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:25:24,123 =========================Starting MAIN===============================
+2020-03-16 12:25:24,123 Starting readdatafromdb
+2020-03-16 12:25:24,823 Completed readdatafromdb
+2020-03-16 12:25:24,824 Starting cleandata
+2020-03-16 12:25:27,912 Completed cleandata
+2020-03-16 12:25:28,360 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:26:07,969 =========================Starting MAIN===============================
+2020-03-16 12:26:07,969 Starting readdatafromdb
+2020-03-16 12:26:08,709 Completed readdatafromdb
+2020-03-16 12:26:08,709 Starting cleandata
+2020-03-16 12:26:11,952 Completed cleandata
+2020-03-16 12:26:12,389 ====================PROGRAM EXECUTION COMPLETED=====================
+2020-03-16 12:34:15,942 =========================Starting MAIN===============================
+2020-03-16 12:34:15,943 Starting readdatafromdb
+2020-03-16 12:34:16,671 Completed readdatafromdb
+2020-03-16 12:34:16,672 Starting cleandata
+2020-03-16 12:34:19,878 Completed cleandata
+2020-03-16 12:34:20,326 ====================PROGRAM EXECUTION COMPLETED=====================

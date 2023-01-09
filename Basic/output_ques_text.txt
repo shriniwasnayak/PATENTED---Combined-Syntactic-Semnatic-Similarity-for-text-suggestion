@@ -1,0 +1,28 @@
+
+
+Enter Question : 
+
+
+
+What is HTTP server ?
+
+
+SIMILAR QUESTIONS
+
+===============================================================
+
+
+Can anybody help on below error in Android Studio?  I have tried all the possible way suggested on internet (like turn on/off fireball, re-installed android studio etc.)  Error:
+"Cannot start internal HTTP server. Git integration, JavaScript debugger and LiveEdit may operate with errors. Please check your firewall settings" Any help will be appreciated.  
+
+
+I am trying to exclude URL starting with /api.asmx/* from HTTPS redirect in nginx (all traffic is redirected from HTTP to HTTPS so i want to have /api.asmx/* accessible thru HTTP). sample URL to exclude: I tried this without any success : 
+
+
+I have a problem with the effect where I call a service chain and generates an infinite loop of calls.
+The component generates a dispatch
+The Effect intercepts the Action and executes the Builder service where inside it runs the Http service that generates an Http call. With the HTTP response I get the http observabke back to the Builder Service and in turn always returns an observer to the effect. The effect creates the positive or negative action. Here the pastebin code Thank you all for the support!!  
+
+
+I have wrote a program using peerjs in Ionic 3. I can run them successfully in computer browsers and computer android emulator (successfully connecting other peers and send/receive messages). However, I found there are no connection to cloud server when I am testing it in an android device. This is the result from Chrome DevTools: this.peer.on('open', ...) is not fired. And I have also logged the created "Peer" object.
+the socket property is undefined, _id is null. So, I guess its the connection problem to the cloud server. Anyone has idea? Thanks. 

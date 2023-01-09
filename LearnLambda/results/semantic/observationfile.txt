@@ -1,0 +1,49 @@
+==================================================
+
+File name : semanticinputdata1.csv
+Query : Can you tell me your age ?
+
+
+
+L : 0.000	SRDS : 1.0
+L : 0.100	SRDS : 1.0
+L : 0.200	SRDS : 1.0
+L : 0.300	SRDS : 1.0
+L : 0.400	SRDS : 1.0
+L : 0.500	SRDS : 1.0
+L : 0.600	SRDS : 1.0
+L : 0.700	SRDS : 1.0
+L : 0.800	SRDS : 1.0
+L : 0.900	SRDS : 1.0
+L : 1.000	SRDS : 1.0
+
+
+:::::::::::: BEST VALUE OF L : 0.000
+
+==================================================
+
+==================================================
+
+File name : semanticinputdata3.csv
+Query : Find a solution for the given question
+
+
+
+L : 0.000	SRDS : 1.0
+L : 0.100	SRDS : 1.0
+L : 0.200	SRDS : 1.0
+L : 0.300	SRDS : 1.0
+L : 0.400	SRDS : 1.0
+L : 0.500	SRDS : 1.0
+L : 0.600	SRDS : 1.0
+L : 0.700	SRDS : 1.0
+L : 0.800	SRDS : 1.0
+L : 0.900	SRDS : 1.0
+L : 1.000	SRDS : 2.0
+
+
+:::::::::::: BEST VALUE OF L : 0.000
+
+==================================================
+
+USE LAMBDA : 0.0

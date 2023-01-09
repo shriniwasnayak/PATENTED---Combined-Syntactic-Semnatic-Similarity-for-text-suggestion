@@ -1,0 +1,85 @@
+{
+    "Input Question": "What is your age ?",
+    "Similarity Threshhold": 0.0,
+    "Suggested Questions": [
+        {
+            "id": 1,
+            "title": "Aptitude Question",
+            "Question": "What is your age ?",
+            "Similarity score": 1.0,
+            "Vector": [
+                "your",
+                "age"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Aptitude Question",
+            "Question": "Age of your pet",
+            "Similarity score": 0.8164965809277261,
+            "Vector": [
+                "age",
+                "your",
+                "pet"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Aptitude Question",
+            "Question": "Are you elder to your sibling ?",
+            "Similarity score": 0.35355339059327373,
+            "Vector": [
+                "you",
+                "elder",
+                "your",
+                "sibl"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Aptitude Question",
+            "Question": "how many years is your passport good for",
+            "Similarity score": 0.31622776601683794,
+            "Vector": [
+                "mani",
+                "year",
+                "your",
+                "passport",
+                "good"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Aptitude Question",
+            "Question": "How old are you ?",
+            "Similarity score": 0.0,
+            "Vector": [
+                "old",
+                "you"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Aptitude Question",
+            "Question": "Months in a leap year ",
+            "Similarity score": 0.0,
+            "Vector": [
+                "month",
+                "leap",
+                "year"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Aptitude Question",
+            "Question": "Do you like ancient history ?",
+            "Similarity score": 0.0,
+            "Vector": [
+                "you",
+                "like",
+                "ancient",
+                "histori"
+            ]
+        }
+    ]
+}

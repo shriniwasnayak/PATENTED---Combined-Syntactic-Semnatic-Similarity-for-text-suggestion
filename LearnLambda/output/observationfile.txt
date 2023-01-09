@@ -1,0 +1,73 @@
+==================================================
+
+File name : COVID_Questions_1.csv
+Query : Is aarogya setu app necessary for air travel ?
+
+
+
+L : 0.000	SRDS : 7309.0
+L : 0.100	SRDS : 7309.0
+L : 0.200	SRDS : 7303.0
+L : 0.300	SRDS : 7304.0
+L : 0.400	SRDS : 7304.0
+L : 0.500	SRDS : 7304.0
+L : 0.600	SRDS : 7307.0
+L : 0.700	SRDS : 7306.0
+L : 0.800	SRDS : 7306.0
+L : 0.900	SRDS : 7306.0
+L : 1.000	SRDS : 13533.0
+
+
+:::::::::::: BEST VALUE OF L : 0.200
+
+==================================================
+
+==================================================
+
+File name : COVID_Questions_2.csv
+Query : Are there any vaccines in clinical trial?
+
+
+
+L : 0.000	SRDS : 428.0
+L : 0.100	SRDS : 428.0
+L : 0.200	SRDS : 428.0
+L : 0.300	SRDS : 428.0
+L : 0.400	SRDS : 428.0
+L : 0.500	SRDS : 428.0
+L : 0.600	SRDS : 428.0
+L : 0.700	SRDS : 428.0
+L : 0.800	SRDS : 428.0
+L : 0.900	SRDS : 428.0
+L : 1.000	SRDS : 4874.0
+
+
+:::::::::::: BEST VALUE OF L : 0.000
+
+==================================================
+
+==================================================
+
+File name : COVID_Questions_3.csv
+Query : Details on cure of COVID19 
+
+
+
+L : 0.000	SRDS : 4514.0
+L : 0.100	SRDS : 3842.0
+L : 0.200	SRDS : 3288.0
+L : 0.300	SRDS : 2725.0
+L : 0.400	SRDS : 2714.0
+L : 0.500	SRDS : 3023.0
+L : 0.600	SRDS : 3023.0
+L : 0.700	SRDS : 3009.0
+L : 0.800	SRDS : 2977.0
+L : 0.900	SRDS : 2977.0
+L : 1.000	SRDS : 87.0
+
+
+:::::::::::: BEST VALUE OF L : 1.000
+
+==================================================
+
+USE LAMBDA : 0.39999999999999997

@@ -1,0 +1,6 @@
+/home/shriniwas/BE/BEProj/Product/input/stackinputdata.csv 1
+/home/shriniwas/BE/BEProj/Product/input/techminputdata.csv 1
+/home/shriniwas/BE/BEProj/Product/input/semanticinputdata.csv 0
+/home/shriniwas/BE/BEProj/Product/input/largeinputdata.csv 0
+/home/shriniwas/BE/BEProj/Product/input/testinputdata.csv 0
+/home/shriniwas/BE/BEProj/UI/Html/uitestinputdata.csv 1

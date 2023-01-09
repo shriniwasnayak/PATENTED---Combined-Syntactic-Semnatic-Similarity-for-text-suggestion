@@ -1,0 +1,108 @@
+<html>
+    <head>
+        <title>
+            Similar Questions
+        </title>
+        <style>
+            .box1
+            {
+                background-color: darkgray;
+                border-style: groove;
+                border-radius: 10px;
+                /*padding-top: 40px;*/
+            }
+            .inside
+            {
+                background-color: white;
+            }
+            .btn {
+  box-sizing: border-box;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: transparent;
+  border: 2px solid #e74c3c;
+  border-radius: 0.6em;
+  color: #e74c3c;
+  cursor: pointer;
+  display: -webkit-box;
+  display: flex;
+  display: inline-block;
+  align-self: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  margin: 20px;
+  padding: 1.2em 2.8em;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+.btn:hover, .btn:focus {
+  color: #fff;
+  outline: 0;
+}
+.fourth {
+  border-color: #f1c40f;
+  color: #0a0a0a;
+  background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+  background-position: 100%;
+  background-size: 400%;
+  -webkit-transition: background 300ms ease-in-out;
+  transition: background 300ms ease-in-out;
+}
+.fourth:hover {
+  background-position: 0;
+}
+        </style>
+    </head>
+    <body>
+        <center><h1>Similar Questions to "{{ques}}" are :</h1></center>
+        <div class="box1">
+           <a id='dynamicLink' href={{l11}} target="_blank"><p style="padding-left: 50px;text-align: left;font-size: 30px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">{{q11}}</p></a>
+           <script>
+                var q1='{{q11}}'
+                var link1 = document.getElementById('dynamicLink'); 
+                var ddg="https://duckduckgo.com/?q=" + "+".join(q1.question.translate(str.maketrans('', '', string.punctuation)).split(" "))
+                link1.setAttribute('href',ddg)
+            </script>
+            <p style="text-align: right;font-size: 20px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">SIMIALRITY : {{s11}}</p>
+        </div>
+        <br>
+        <br>
+        <div class="box1">
+            <a id='dynamicLink' href={{l22}} target="_blank"><p style="padding-left: 50px;text-align: left;font-size: 30px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">{{q22}}</p></a>
+            <p style="text-align: right;font-size: 20px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">SIMIALRITY : {{s22}}</p>
+        </div>
+        <br>
+        <br>
+        <div class="box1">
+            <a id='dynamicLink' href={{l33}} target="_blank"><p style="padding-left: 50px;text-align: left;font-size: 30px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">{{q33}}</p></a>
+            <p style="text-align: right;font-size: 20px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">SIMIALRITY : {{s33}}</p>
+        </div>
+
+        <center>
+            <form id="content" action = "{{ url_for('fileselect') }}" method="POST">
+                <button class="btn fourth" id="2">Change File</button>
+            </form>
+        </center>
+        <center>
+            <form id="content1" action = "{{ url_for('cq') }}" method="POST">
+                <button class="btn fourth" id="1">Change Question</button>
+                <input type="hidden" id="questfile" name="questfile" value="{{inputfile}}">
+            </form>
+        </center>
+
+        <script>
+            function Quest(){
+                /*$.post('{{ url_for("home1") }}',{share:inpfile})*/
+                location.replace("http://127.0.0.1:5000/cq")
+            }
+            function File(){
+                location.replace("http://127.0.0.1:5000/select")
+            }
+        </script>
+    </body>
+</html>

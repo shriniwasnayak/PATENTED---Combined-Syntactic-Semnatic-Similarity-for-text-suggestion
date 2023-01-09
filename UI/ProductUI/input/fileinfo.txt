@@ -1,0 +1,7 @@
+/home/shriniwas/BE/BEProj/UI/ProductUI/input/stackinputdata.csv 1
+/home/shriniwas/BE/BEProj/UI/ProductUI/input/techminputdata.csv 1
+/home/shriniwas/BE/BEProj/UI/ProductUI/input/semanticinputdata.csv 0
+/home/shriniwas/BE/BEProj/UI/ProductUI/input/largeinputdata.csv 1
+/home/shriniwas/BE/BEProj/UI/ProductUI/input/testinputdata.csv 0
+/home/shriniwas/BE/BEProj/UI/ProductUI/input/uitestinputdata.csv 1
+/home/shriniwas/BE/BEProj/UI/ProductUI/input/COVID_Question.csv 1

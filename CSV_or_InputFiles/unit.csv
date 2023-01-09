@@ -1,0 +1,17 @@
+Unit,Test Input,Output,Result
+,,,
+Preprocessing,"list of questions (What is use of python ?), stopwords list",preprocessed list of questions(what use python),PASS
+Preprocessing,empty list,empty list,PASS
+Calculate Cosine similarity,"input question vector (use python), list of DB question vectors (use java)",similarity value between 0 and 1 (0.5),PASS
+Calculate Cosine similarity,empty list,throw Error,PASS
+Semantic similarity,"Input question (How old are you ?), list of questions (What is your age ?)",similarity value between 0 and 1 (0.9),PASS
+Semantic similarity,empty list,throw Error,PASS
+Read file,file name ,list of questions in appropriate class,PASS
+Read file,invalid name(“asvasd”),Log file : Unable to read “asvasad”,PASS
+Read Tag File,file name ,file name associated with tag,PASS
+Read Tag File,invalid name(“asvasd”),Log file : Unable to read “asvasad”,PASS
+Read Driver file,file name ,file name with associated query in appropriate class,PASS
+Read Driver file,invalid name(“asvasd”),Log file : Unable to read “asvasad”,PASS
+generate Graph,Similarity Percentage and Frquency,Bar graph save in mentioned location,PASS
+generate Json,"Similarity Percentage, Question and query",Json file mentioned location,PASS
+create link,Question (what is python ?),search engine link (https://duckduckgo.com/?q=what+is+python),PASS

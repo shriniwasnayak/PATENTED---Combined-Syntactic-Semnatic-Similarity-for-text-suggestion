@@ -1,0 +1,73 @@
+==================================================
+
+File name : testoneinputdata1.csv
+Query : What is the leave procedure ?
+
+
+
+L : 0.000	SRDS : 50.0
+L : 0.100	SRDS : 50.0
+L : 0.200	SRDS : 50.0
+L : 0.300	SRDS : 50.0
+L : 0.400	SRDS : 50.0
+L : 0.500	SRDS : 50.0
+L : 0.600	SRDS : 50.0
+L : 0.700	SRDS : 50.0
+L : 0.800	SRDS : 50.0
+L : 0.900	SRDS : 50.0
+L : 1.000	SRDS : 3.0
+
+
+:::::::::::: BEST VALUE OF L : 1.000
+
+==================================================
+
+==================================================
+
+File name : testoneinputdata2.csv
+Query : Who started the Veturino project ?
+
+
+
+L : 0.000	SRDS : 917.0
+L : 0.100	SRDS : 774.0
+L : 0.200	SRDS : 765.0
+L : 0.300	SRDS : 765.0
+L : 0.400	SRDS : 765.0
+L : 0.500	SRDS : 765.0
+L : 0.600	SRDS : 765.0
+L : 0.700	SRDS : 765.0
+L : 0.800	SRDS : 765.0
+L : 0.900	SRDS : 765.0
+L : 1.000	SRDS : 1001.0
+
+
+:::::::::::: BEST VALUE OF L : 0.200
+
+==================================================
+
+==================================================
+
+File name : testoneinputdata3.csv
+Query : When will I get my first salary ?
+
+
+
+L : 0.000	SRDS : 123.0
+L : 0.100	SRDS : 123.0
+L : 0.200	SRDS : 123.0
+L : 0.300	SRDS : 123.0
+L : 0.400	SRDS : 123.0
+L : 0.500	SRDS : 123.0
+L : 0.600	SRDS : 123.0
+L : 0.700	SRDS : 123.0
+L : 0.800	SRDS : 123.0
+L : 0.900	SRDS : 123.0
+L : 1.000	SRDS : 3.0
+
+
+:::::::::::: BEST VALUE OF L : 1.000
+
+==================================================
+
+USE LAMBDA : 0.7333333333333334

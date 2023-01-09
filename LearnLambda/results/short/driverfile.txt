@@ -1,0 +1,4 @@
+How to read input in python ?
+/home/shriniwas/BE/BEProj/LearnLambda/input/shortinputdata1.csv
+How old are you ?
+/home/shriniwas/BE/BEProj/LearnLambda/input/shortinputdata2.csv

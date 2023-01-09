@@ -1,0 +1,797 @@
+{
+    "Input Question": "What is python ?",
+    "Suggested Questions": [
+        {
+            "id": 65,
+            "title": "In VSCode how do I \"Run Python File in Terminal\" or \"Debug (F5)\" using python unbuffered option -u",
+            "Question": "I want to run python unbuffered (-u) in VSCode while using \"run python file in terminal\" and the debugger \"F5\".  Yes, I could use something like coderunner, but I want to actually debug using VSCode debugging tools, not just run my script. I have searched the entire settings.json default file for such a setting, expecting something like \"python.pythonUnbuffered = True\", but nothing exists.   Here is my project's settings.json file which isn't that exciting.  I'm expecting I would set the unbuffered option in there somewhere if I knew the correct parameter. I expect there is a setting somewhere to run python -u but I can't find it. ",
+            "Combine Similarity score": 0.2718988352184232,
+            "Syntactic Similarity score": 0.15075567228888181,
+            "Semantic Similarity score": 0.3930419981479645
+        },
+        {
+            "id": 6,
+            "title": "Push botocore.response.StreamingBody object to firehose delivery stream",
+            "Question": "I have an S3 bucket that has source records and I am doing some manual backfilling, so I am trying to write a python script that sends them to a Firehose Delivery stream. The files are of the type botocore.response.StreamingBody object and are pretty straightforward, simple JSONs. The code I have been working on is as follows: from here I want to call the function put_record_batch() but I'm not sure how to pass the object['Body'] into the function. The boto3 docs were not super helpful ",
+            "Combine Similarity score": 0.23670856118807904,
+            "Syntactic Similarity score": 0.1643989873053573,
+            "Semantic Similarity score": 0.3090181350708008
+        },
+        {
+            "id": 24,
+            "title": "G Suite Marketplace app - where to edit the contents?",
+            "Question": "i used to edit my g suite marketplace app listing contents via chrome store developer dashboard but looks like it's detached as new manifesto should not include domain string. now where should i update my app listing contents? Maybe in google cloud console? chrome web store developer dashboard ",
+            "Combine Similarity score": 0.12083181738853455,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.2416636347770691
+        },
+        {
+            "id": 1,
+            "title": "Acrobat reader cannot extract the embedded font 'PWLEAX+NotoSerifCJKsc-Regular-Identity-H'",
+            "Question": "I am using Jasper Report 6.9.0 version with Java 1.8.0_201 and Arial Unicode MS and NotoSerifCJKsc(especially for the traditional Chinese) fonts for the Jasper Report to display the Chinese Characters. Pdf generated properly and I am able to see the complete content when I open it on the chrome, but if I try to open it with Acrobat reader then I am getting the error  \"Cannot extract the embedded font 'PWLEAX+NotoSerifCJKsc-Regular-Identity-H'. Some characters may not display or print correctly.\"  ",
+            "Combine Similarity score": 0.118929922580719,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.237859845161438
+        },
+        {
+            "id": 10,
+            "title": "Request.Browser details in Mac OS",
+            "Question": "Request.Browser details are not proper in Mac OS Request.Browser.Platform is always \"Unknown\" in mac chrome browser.\nRequest.Browser.MajorVersion is always 0 and Request.Browser.Platform is always \"Unknown\" in mac Safari browser.    ",
+            "Combine Similarity score": 0.11863269656896591,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.23726539313793182
+        },
+        {
+            "id": 37,
+            "title": "Cant connect to peerjs cloud server only in mobile device",
+            "Question": "I have wrote a program using peerjs in Ionic 3. I can run them successfully in computer browsers and computer android emulator (successfully connecting other peers and send/receive messages). However, I found there are no connection to cloud server when I am testing it in an android device. This is the result from Chrome DevTools: this.peer.on('open', ...) is not fired. And I have also logged the created \"Peer\" object.\nthe socket property is undefined, _id is null. So, I guess its the connection problem to the cloud server. Anyone has idea? Thanks. ",
+            "Combine Similarity score": 0.11082565039396286,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.22165130078792572
+        },
+        {
+            "id": 58,
+            "title": "Apache Atlas How to Creating Terms in API Level share the Sample API",
+            "Question": "Apache Atlas:Atlas REST API : How can create a new term in the API Level and How to Add the Tag in the Classification based on the API  ",
+            "Combine Similarity score": 0.10998369753360748,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.21996739506721497
+        },
+        {
+            "id": 41,
+            "title": "Auto orient picture with AWS Serverless Image Handler",
+            "Question": "I would like to automatically orient pictures and strip exif data with AWS Serveless Image Handler. I'm currently using the demo UI and the image does not auto orient. I need to auto orient pictures taken from mobile devices so that they display properly on the web and other mobile devices. I currently use the Ruby Gem Paperclip to achieve this with these settings: ",
+            "Combine Similarity score": 0.10550688207149506,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.2110137641429901
+        },
+        {
+            "id": 16,
+            "title": "Mailchimp landing page fail to index on Google Search Console because blocked by robots.tx",
+            "Question": "A mailchimp landing page with a custom subdomain is failing to index on Google Search Console because it's being blocked by robots.txt. The domain is authenticated on Mailchimp and the landing page subdomain is verified on Mailchimp. SSL is working fine. Google Search Console is able to index other subdomains using other services - just not the Mailchimp landing page. I didn't see anywhere within the Mailchimp portal where the robots.txt file can be modified. I was expecting Google Search Console to queue up the landing page for indexing. However, I received an alert: Index Request Rejected. Drilling into the alert: Crawl was not allowed because it's blocked by robots.txt. ",
+            "Combine Similarity score": 0.10524769127368927,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.21049538254737854
+        },
+        {
+            "id": 56,
+            "title": "GitHub Enterprise won't let me commit to a gist",
+            "Question": "GitHub Enterprise will not let me push to a gist: The clone definitely works, as I can view the cloned gists. However, I cannot  I also tried adding the origin manually, both with and without the  ",
+            "Combine Similarity score": 0.09641196578741074,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.19282393157482147
+        },
+        {
+            "id": 84,
+            "title": "An element could not be located on the page using the given search parameters (Appium 1.13.0)",
+            "Question": "I am working on Automation for Android App. While running the script, Appium unable to find the elements. I tried using Id, Xpath. Please help me with this... Android version: 5.1.1 &amp; 9\nAppium Version: 1.13.0\nMaven Project @Test\npublic void login() { driver.findElement(By.id(\"com.vehito.vehitoplus:id/sign_in_button\")).click();\n}   Actual Result:\nEncountered internal error running command: NoSuchElementError: An element could not be located on the page using the given search parameters ",
+            "Combine Similarity score": 0.09605111926794052,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.19210223853588104
+        },
+        {
+            "id": 63,
+            "title": "mdt: command not found [mendel development tool]",
+            "Question": "I've flashed my Google Coral Dev Board going through the instructions on this page:\n I've downloaded the mendel development tool with  But when I try to connect to the board's shell via MDT, using I'm met with  I'm using a macOS, for reference. Any advice on whether I've downloaded MDT correctly, or am missing something else is greatly appreciated. ",
+            "Combine Similarity score": 0.09257442504167557,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.18514885008335114
+        },
+        {
+            "id": 93,
+            "title": "Carthage + Xcode 10.3 : Task failed with exit code 65",
+            "Question": "I have an error with the library delba/Log, when updating it I am getting an error Step to reproduce : Run carthage update --platform iOS on the project\nGet this error : *** Building scheme \"Log iOS\" in Log.xcodeproj\nBuild Failed\nTask failed with exit code 65.... ONLY_ACTIVE_ARCH=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY= CARTHAGE=YES archive -archivePath /var/folders/4h/0bqjzytn4w56r4x1w1k5fp_0k01fy7/T/Log SKIP_INSTALL=YES GCC_INSTRUMENT_PROGRAM_FLOW_ARCS=NO CLANG_ENABLE_CODE_COVERAGE=NO STRIP_INSTALLED_PRODUCT=NO (launched in This usually indicates that project itself failed to compile. Please check the xcodebuild log for more details: ",
+            "Combine Similarity score": 0.09245354682207108,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.18490709364414215
+        },
+        {
+            "id": 87,
+            "title": "Thread using win32com module fails",
+            "Question": "I am working on a piece of code that populates the available USB devices (findDevices()) using win32com module. This is slowing down the code, so I resorted use a thread and continue with the rest of the code. When I did that, I get an error:  Below is a snippet of the code When I searched on this topic, I came across this  ",
+            "Combine Similarity score": 0.09227920323610306,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.18455840647220612
+        },
+        {
+            "id": 71,
+            "title": "Elastic cache redis performance in ecs",
+            "Question": "In our organization, we have been running a Node 6 application consisting of Nginx and application on Amazon EC2 instances. Usually at traffic it autoscales up to 14 m4.large EC2 instance and the response of time of the apis would be around 80 ms for 12k rpm load. We recently moved to AWS ECS, where each task had 2 containers (Nginx \n+ application) and also updated to node12. Now we have around 160 tasks (100 CPU unit for each Nginx + 100 CPU unit for application inside a task) running with 16 same m4.large instances. But the response time increased to 250 ms. In EC2 architecture which we used earlier took GET Elasticache Redis operation around 6ms whereas in ECS when load is high the Redis takes 70ms for the same operation. Please help to suggest some optimisation to get same EC2 performance. ",
+            "Combine Similarity score": 0.08977437019348145,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1795487403869629
+        },
+        {
+            "id": 23,
+            "title": "Android Studio: Cannot start internal HTTP server",
+            "Question": "Can anybody help on below error in Android Studio?  I have tried all the possible way suggested on internet (like turn on/off fireball, re-installed android studio etc.)  Error:\n\"Cannot start internal HTTP server. Git integration, JavaScript debugger and LiveEdit may operate with errors. Please check your firewall settings\" Any help will be appreciated.  ",
+            "Combine Similarity score": 0.08911716192960739,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.17823432385921478
+        },
+        {
+            "id": 7,
+            "title": "Response header-value based on request query-value",
+            "Question": "I'm using Apache httpd 2.4.39 (from memory). It's one or two releases behind current. The request looks like:  How would I configure Apache httpd so that when it sees a request query-string containing \"token\" as the key, it then adds the following response header: \"X-Token\"=\"XyS2a\" I.e. the header value is taken from the query string. ",
+            "Combine Similarity score": 0.08550047129392624,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.17100094258785248
+        },
+        {
+            "id": 80,
+            "title": "Bower Illegal instruction (core dumped) after fresh instalation",
+            "Question": "After fresh Ubuntu installation and clear snap installation bower keep dumping \"Illegal instruction (core dumped)\"\nI thought that it was because the lack of JAVA in my PATH.. But its not that. After removing bower and try installing it again, snap crashes with: This revision of snap \"bower\" was published using classic confinement ",
+            "Combine Similarity score": 0.08461534231901169,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16923068463802338
+        },
+        {
+            "id": 67,
+            "title": "Can I include a single instance of a module (not .jar) in multiple projects?",
+            "Question": "I'd like to see the source code for a single instance of my module in multiple projects.  Currently, I copy the code for the module rather than include a JAR file.  I like to have access to the live code for editing and debugging. The scenario is like this: project A has the module with all of its source code.  I create project B and need the module too.  I don't want a JAR file.  I need access to the code for editing/debugging. I apologize if I missed a previously answered question.  I may be using the wrong terms for my searches. Thank you for your time. ",
+            "Combine Similarity score": 0.08461243659257889,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16922487318515778
+        },
+        {
+            "id": 45,
+            "title": "Loading Cesium Terrain tiles on terria map",
+            "Question": "I have develop a hybrid app using TerriaJS for loading terrain tiles on terria map. I created catalog JSON for cesium terrain. But none of them is working. When I load catalog on map the globe just become white. ",
+            "Combine Similarity score": 0.0845654308795929,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1691308617591858
+        },
+        {
+            "id": 59,
+            "title": "Thumbnails removed when swiping right or left in LightGallery",
+            "Question": "I am using   And when I click on the thumbnail, it will open the window like this:     Below is the code snippt for JS HTML Markup: ",
+            "Combine Similarity score": 0.08449839055538177,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16899678111076355
+        },
+        {
+            "id": 31,
+            "title": "Lightning Navigation To Custom Setting Record",
+            "Question": "I have tried appending the ID of the custom setting record in the URL however it is not working. I need to redirect to the custom setting record using the Id of the record I am fetching from apex controller of the lightning component. ",
+            "Combine Similarity score": 0.08357942849397659,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16715885698795319
+        },
+        {
+            "id": 34,
+            "title": "Whats is the glide library which supports 64 bit requirment of google?",
+            "Question": "As per google new policy whats the 64 bit dependency for glide and picasso? Can someone help me getting pass this trouble ... please \nAnswer the dependency for 64 bit glide and picasso ...\nOr from where i can find those dependency ?? ",
+            "Combine Similarity score": 0.08261002600193024,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16522005200386047
+        },
+        {
+            "id": 88,
+            "title": "Prefill and style an email with rich text using JXA: How?",
+            "Question": "I would like to write a JxA script to automate the creation of some emails based on some values that are retrieved/calculated dynamically.  However, I can't figure out how to properly style and format the email body. I'd have some basic needs: \n- Writing something in bold\n- Adding a link\n- Changing the text color or size.  I've tried both html and rtf syntax in the string below, neither worked.   ",
+            "Combine Similarity score": 0.08238924294710159,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16477848589420319
+        },
+        {
+            "id": 4,
+            "title": "Is there an archive of Navigator objects for various browsers on various platforms?",
+            "Question": "Does there exist an archive somewhere that captures the full Navigator object (and any other useful things) for various browsers on various devices? I'm looking to test browser device fingerprinting, and I'd like to have all the information that makes up the fingerprint handy so I can replicate certain configurations without having to actually have those configurations available to reference.  I know that you can use Developer Tools on Chrome and spoof the user agent.  But that's only one element of the Navigator object.  A bunch of other things are not spoofed, so I'm looking for a more complete resource, if one exists. ",
+            "Combine Similarity score": 0.0822492316365242,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1644984632730484
+        },
+        {
+            "id": 39,
+            "title": "What if there's another directory inside readers and inside that directory email is stored. Then also the below given code will work?",
+            "Question": "What if there's another directory inside readers and inside that directory email is stored. Then also the below given code will work ? ",
+            "Combine Similarity score": 0.0816393792629242,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1632787585258484
+        },
+        {
+            "id": 51,
+            "title": "darknet: ./src/parser.c:315: parse_yolo: Assertion `l.outputs == params.inputs' failed",
+            "Question": "I'm trying to train yolo on my own dataset using darknet\nI tried yolov2,yolov3 to do so..\nI followed this article here  some times I got another similar error but with parse_region Assertion\nI tried many solution most of them recommend to fix the number of filters but I can't figure it out, so here's my yolov3.cfg and this my obj.data ",
+            "Combine Similarity score": 0.08137799054384232,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16275598108768463
+        },
+        {
+            "id": 30,
+            "title": "Is there a way to install Twistlock defenders on AWS AMIs?",
+            "Question": "I would like to package an AMI with a twistlock defender agent.  Unfortunately, the agent needs to authenticate and register itself upon startup.  Is there any way to do this (securely) so that I can enforce EC2 twistlock defender compliance across the AWS account? ",
+            "Combine Similarity score": 0.08096897602081299,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16193795204162598
+        },
+        {
+            "id": 17,
+            "title": "How can I configure email to work correctly with punycode domain?",
+            "Question": "I have a punycoded domain with a cpanel linux hosting. The domain is coded correctly for visits to the site. However, the email address is display punycode. Example: \"contacto@xn--casamazuntea-khb.com\" should be displayed as \"contacto@casamazunte\u00f1a.com\" Any idea on how to go about this? PS: Apologies if this is not the right forum ",
+            "Combine Similarity score": 0.08089759945869446,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16179519891738892
+        },
+        {
+            "id": 74,
+            "title": "How to include ksshaskpass for git in visual studio code",
+            "Question": "I use ksshaskpass in combination with kwallet for my remote git credentials, in console everything works fine but visual studio code keeps asking me for username and password I actually dont want to change to a credential helper.\nI used ksshaskpass like: git config --global core.askPass ksshaskpass ",
+            "Combine Similarity score": 0.08012156188488007,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.16024312376976013
+        },
+        {
+            "id": 61,
+            "title": "Is there a solution that has a repository of documents and a search engine to query those documents?",
+            "Question": "As a product manager, I get multiple product inquiries daily. I am trying to compose a repository that can hold all my replies and has a search engine where users can simply search for answers. This would help users first look for their answers on the search engine and next come to me if they have more doubts. Any application/solution that can solve the above problem is welcomed. ",
+            "Combine Similarity score": 0.07933555543422699,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.15867111086845398
+        },
+        {
+            "id": 27,
+            "title": "How can I make a \"time of week\" heatchart?",
+            "Question": "I have an event model (title:string, starts_at:datetime, ends_at:datetime) and lots of events in the database. How can I make a \"time of week heatchart\"? Below - from google analytics dashboard  ",
+            "Combine Similarity score": 0.07774258404970169,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.15548516809940338
+        },
+        {
+            "id": 26,
+            "title": "Something went wrong while saving the category Magento 2.1.16",
+            "Question": "Magento verion 2.1.16. Whenever I am trying to create a new category I am getting the error - Something went wrong while saving the category.\nIn the exception log its showing\n[2019-08-13 10:33:09] main.CRITICAL: RuntimeException: Can't create directory /home/onelifehair/public_html/var/generation/Magento/Framework/App/Response/Http/. in /home/onelifehair/public_html/vendor/magento/framework/Code/Generator.php:115\nStack trace: I have tried reindexing, deleting the content of var/generation, running setup:di:compile and static:content:deploy. Also tried chmod -r -v 777 var/generation. But nothing is working. Please help me regarding this ",
+            "Combine Similarity score": 0.07646877318620682,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.15293754637241364
+        },
+        {
+            "id": 49,
+            "title": "Failed to build HPX on windows with VS2017",
+            "Question": "I followed the instructions on  To fix it, I reconfigured CMake to build using VS2013.\nThan I get an error that tells me that I must use VS2015 as minimum.\nI edit the files \"CMakeCXXCompiler.cmake\" and  \"CMakeCCompiler.cmake\" in the binaries folders, and change the directory and version of the compiler (cl.exe) and linker (link.exe) to the one in VS2017. Now, some of the tests fail and I get the error:\n\"CMake Error at cmake/HPX_Message.cmake:47 (message):\n  HPX needs support for C++11 deleted functions\"\nPerforming Test HPX_WITH_CXX11_ALIGNAS - Failed\nPerforming Test HPX_WITH_CXX11_CONSTEXPR - Failed\nPerforming Test HPX_WITH_CXX11_DELETED_FUNCTIONS - Failed I created a simple project in VS2017 and made sure that I can use the \n\"= delete ;\" on a default constructor, and it compiles. ",
+            "Combine Similarity score": 0.07548832148313522,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.15097664296627045
+        },
+        {
+            "id": 86,
+            "title": "Density histogram with lognormal fit",
+            "Question": "Dears\nI have used the below code for fitting a lognormal distribution to a histogram of my set of positive data. When I run it, Rstudio displays no error messages, but at the same time, there is no result, there is no graph produced. Whats going on?  ",
+            "Combine Similarity score": 0.07498983293771744,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.14997966587543488
+        },
+        {
+            "id": 69,
+            "title": "i want to how to deal with dependency in angular integration testing with jasmine",
+            "Question": "i got this error why? that is my code.i want to know how to work with dependency and how to instantiate those dependencies in inyegration testing i got this error why? that is my code.i want to know how to work with dependency and how to instantiate those dependencies in inyegration testing ",
+            "Combine Similarity score": 0.07412807643413544,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.14825615286827087
+        },
+        {
+            "id": 38,
+            "title": "Starting of a virtual device on genymotion for app development",
+            "Question": "Error: the virtual device got no IP address, The Dynamic Host Configuration Protocol  not assigning IP address \nhow to fix it? ",
+            "Combine Similarity score": 0.07368912547826767,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.14737825095653534
+        },
+        {
+            "id": 77,
+            "title": "AutoSize footer using SelectPDF",
+            "Question": "I'm trying to find a way to make my footer take up as much space as needed, and not the default (which is 35pt) or a fixed value set by me. I'm using SelectPDF and I found no straightforward solution for this. I tried to use the  Expected: footer takes up as much space as needed, without setting a fixed value for it. Thanks, Lorena. ",
+            "Combine Similarity score": 0.07361065596342087,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.14722131192684174
+        },
+        {
+            "id": 79,
+            "title": "Generate Heatmap in Kibana X-Asix day and Y-Axis hours to plot Number of web hits",
+            "Question": "I would like to plot the heatmap in Kibana with X-Axis in date and y-Axis hours and plot the web sites hits in a day hours basis. ",
+            "Combine Similarity score": 0.07237297296524048,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.14474594593048096
+        },
+        {
+            "id": 85,
+            "title": "cmd-reporter versus version in rook-ceph",
+            "Question": "After enable the graylog in the lab my cluster broken. I tried delete and create a new cluster but it was unsesufull. The follow error message apper to me when I try create a cluster. \"op-cluster: unknown ceph major version. failed to extract ceph version. failed to parse version from: Error response from daemon: configured logging driver does not support reading\" I read that the problem is because the ceph versions is getting from logs in stdout. I read too than a new feature was release to fix it: cmd-reporter. In front off, I dont know how i cant fix it or enable the cmd-reporter. I has using the follow versions:\n* rook/ceph:v1.0.2\n* ceph/ceph:v14.2 Any suggestion? \nTkz in advance ",
+            "Combine Similarity score": 0.07205277681350708,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.14410555362701416
+        },
+        {
+            "id": 28,
+            "title": "Changeable DefaultHeaders",
+            "Question": "Within the auto generated APIClient class of Swagger-Codegen generated files there are so called 'default-headers'. For some reason those are to be setOnce. Swagger the generated code also makes sure, said headers actually can only be set once, which is not to practical with apps setting their user session tokens into those default headers.  Is there any way, to tell the codegen executable to not make those default headers 'setOnce'? Situation: Current Workaround: Restart the App on SignOut ",
+            "Combine Similarity score": 0.07168031483888626,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.14336062967777252
+        },
+        {
+            "id": 40,
+            "title": "How to reformat all the open files in IntelliJ",
+            "Question": "Is there any shortcut to reformat the code in all the open files in IntelliJ? I'm specifically looking for a way to reformat all the  ",
+            "Combine Similarity score": 0.0710907056927681,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1421814113855362
+        },
+        {
+            "id": 42,
+            "title": "Construct your HTTP request by specifying the URI, HTTP Method, headers, content type and request body",
+            "Question": "I am trying to run sample code to authorize gapi but cannot break through the elemental barrier as described inthe quick start.  when local host is added nothing happens except I see a hyperlink menu of all the folders in my root directory ~ ' ",
+            "Combine Similarity score": 0.07102513313293457,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.14205026626586914
+        },
+        {
+            "id": 32,
+            "title": "Does nvm4w has a default version?",
+            "Question": "see the screenshot below, every time   ",
+            "Combine Similarity score": 0.07038731873035431,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.14077463746070862
+        },
+        {
+            "id": 11,
+            "title": "Adding and visualizing Integers as Datetime field in ES",
+            "Question": "Unable to visualise the datetime in kibana when mapping for the field is assigned as date. Sample JSON being loaded to ES ES Mapping:\nGET _template/line- Unable to visualise the above jsons in Kibana. But successfully able to create indexes in kibana ",
+            "Combine Similarity score": 0.06983023136854172,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.13966046273708344
+        },
+        {
+            "id": 89,
+            "title": "Teams returns attachment content in html, how to get it in json",
+            "Question": "When user sends URL to my bot, MS Teams puts as an attachment with contentType as \"text/html\", includes the html content like this: How do i get the attachment content in JSON instead of html?  ",
+            "Combine Similarity score": 0.06838415563106537,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.13676831126213074
+        },
+        {
+            "id": 5,
+            "title": "How to delete repeating vector images from all pages of a pdf in one go?",
+            "Question": "I have several pdf files with hundreds of pages having unwanted vector images (same kind) in background (just like a watermark), I want to remove them all. I tried using Wondershare PDF element, Nitro PDF, Foxit Phantom PDF and they did provide me with the option of removing these images but it is a hectic task to select and remove them individually from each page. I couldn't find any option which lets me select specific type of vector images from all images and delete all of them in one click. Though Master PDF worked better than the rest of them, it has a 'vector images' editing category which helps selecting all vector images (Ctrl + A) but again I have to repeat this for each page which is cumbersome. Really need help with this. ",
+            "Combine Similarity score": 0.06830176711082458,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.13660353422164917
+        },
+        {
+            "id": 91,
+            "title": "various issues when setting up visualvm remote JVM connection with jstatd",
+            "Question": "statd on remote machine may not be starting up correctly and visualvm user interface does not add connections. On the remote machine, I created a policy file for jstatd: I then execute jstatd: ./jstatd -p 1199 -J-Djava.security.policy=/home/jonathan/jstatd.policy It seems to be running and there are no errors which I got when not specifying a port number or policy file. In visualvm, I'm able to add the remote host but when I try to create a jstatd connection and fill the information, when clicking \"ok\", the popup just disappears. No errors, no connections under the node, no nothing. I enabled logging and there are no errors. My questions:\n1. Does jstatd REQUIRES an rmiregistry to work? Not specifying a port, will it attempt to connect to a default one (on port 1099)?\n2. Running netstat doesn't show any binding on port 1199 which I've designated.\n3. Why does visualvm not allow connections to be created? ",
+            "Combine Similarity score": 0.06799820065498352,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.13599640130996704
+        },
+        {
+            "id": 66,
+            "title": "Alicloud:How to get regions/zones where cluster can be created?",
+            "Question": "Not all regions supports the creation of managed kubernetes clusters. Which API calls let me discover regions in which kubernetes clusters can be created? ",
+            "Combine Similarity score": 0.06727075576782227,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.13454151153564453
+        },
+        {
+            "id": 97,
+            "title": "how to fixe the probleme of the empty report in programme if ZKTeco Attendance Management",
+            "Question": "I have ZKTeco Attendance Management device, I install the driver, and I connect the device with my pc, I have the liste of employes, but when I want to print the report, it is empty. ",
+            "Combine Similarity score": 0.06717856228351593,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.13435712456703186
+        },
+        {
+            "id": 21,
+            "title": "gitlab ci can not recognize the new custom file of factory",
+            "Question": "gitlab can not recognize and use the custom model factory I create in the lumen project by default lumen use  ",
+            "Combine Similarity score": 0.06641936302185059,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.13283872604370117
+        },
+        {
+            "id": 78,
+            "title": "Adding nodes to a dispersed gluster cluster",
+            "Question": "I was reading the gluster documentation and am having difficulty figuring out exactly how my cluster ought to be configured. Suppose I decided to set up a dispersed distributed cluster with 3 bricks and redundancy = 1.   If I did this do I have to add bricks in groups of 3, or can I add 1 or 2 bricks if desired? If I add 3 bricks to the cluster does the redundancy number change?  I looked at this:  ",
+            "Combine Similarity score": 0.0660584568977356,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1321169137954712
+        },
+        {
+            "id": 15,
+            "title": "NgRx Effect infinite loop with chain services",
+            "Question": "I have a problem with the effect where I call a service chain and generates an infinite loop of calls.\nThe component generates a dispatch\nThe Effect intercepts the Action and executes the Builder service where inside it runs the Http service that generates an Http call. With the HTTP response I get the http observabke back to the Builder Service and in turn always returns an observer to the effect. The effect creates the positive or negative action. Here the pastebin code Thank you all for the support!!  ",
+            "Combine Similarity score": 0.06558091938495636,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.13116183876991272
+        },
+        {
+            "id": 3,
+            "title": "subtypes of parenttype together in a list",
+            "Question": "hey i have a class like vehicle. if i create car : vehicle and bus : vehicle and then want to put busses and and cars in one list, how can i do that? if i do mycar and mybus looses all attributes making them to car/bus.  if later i do  its not working of cause :( \nhow can i do that? \nwhy do i use inheritance then at all? \nisn't it better to have  but then is MyCar.Type = Car but has also the Attribute: List Stops or something even if a car shouldn't have it but only busses....  but if i need to combine them i dont have a option right? ",
+            "Combine Similarity score": 0.06547026336193085,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1309405267238617
+        },
+        {
+            "id": 33,
+            "title": "Excluding all /api.asmx/* from HTTPS redirect on NGINX",
+            "Question": "I am trying to exclude URL starting with /api.asmx/* from HTTPS redirect in nginx (all traffic is redirected from HTTP to HTTPS so i want to have /api.asmx/* accessible thru HTTP). sample URL to exclude: I tried this without any success : ",
+            "Combine Similarity score": 0.06484011560678482,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.12968023121356964
+        },
+        {
+            "id": 72,
+            "title": "TinyMCE Paste plugin",
+            "Question": "I am using TinyMCEv4. What I am trying to have is a plain as text button. For that I have to include paste plugin. But once I add paste plugin and paste links from word they get stripped. Here is my configuration }) Can anyone suggests me a way of having links as links while having the option to paste as text from word as well.  ",
+            "Combine Similarity score": 0.06445787847042084,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.12891575694084167
+        },
+        {
+            "id": 53,
+            "title": "ApexCharts - Display heatmap without grid",
+            "Question": "I want to display a heatmap without grid lines Here is my config :  Even with this, some lines are still displayed between squares. See the image :  ",
+            "Combine Similarity score": 0.06399914622306824,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.12799829244613647
+        },
+        {
+            "id": 47,
+            "title": "Not able to access data pipeline from AWS lambds using SDK",
+            "Question": "I have created aws lambda which will activate the data pipeline which will copy data from S3 to RDS. But i am not able to access data pipeline from aws lambda. I am expecting the list of data pipeline that i have created. But its giving timeout exception. I am able to see logs till i call dataPipelineClient.ListPipelinesAsync only. ",
+            "Combine Similarity score": 0.06388427317142487,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.12776854634284973
+        },
+        {
+            "id": 19,
+            "title": "How to display preresgistered partials in handlebars?",
+            "Question": "I am trying to use handlebars. I have a chat, when a user send a message, I want to render an handlebar template I have the following code in nodejs to load my vies and partials =>  Now I have a simple partial that is like this message.hbs I know I can call like this from a views  How do I get my partial in my javascript and append it to an element ? Is it working only from the templates ?  ",
+            "Combine Similarity score": 0.0638391375541687,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1276782751083374
+        },
+        {
+            "id": 62,
+            "title": "Access gateway payment information with magento SOAP C #",
+            "Question": "I am using C# to access magento WebService SOAP to receive payment data from a gateway. However, payment details do not appear in the webservice return. I am using the SalesOrderInfo method but it does not show the number of order installments.\nDoes anyone know how I can return this value?\nThank you! var dataOrder = m.salesOrderInfo(admin, 100000001); ",
+            "Combine Similarity score": 0.0635601356625557,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1271202713251114
+        },
+        {
+            "id": 9,
+            "title": "Use api-keys with WSS4J for SOAP authentication",
+            "Question": "Is there any way that we can use api-keys with SOAP and WSS4J ?\n I have a module which connects to a SOAP web service and retrieve data (using WSS4J as well), it uses username / password mechanism now. Recently they have started to use api-keys for that and removed the username / password mechanism. I need to adopt the module to use that. I was checking if we can use the same WSS4J for that as well. ",
+            "Combine Similarity score": 0.06259696185588837,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.12519392371177673
+        },
+        {
+            "id": 98,
+            "title": "Here API: is there an output format for GIS desktop",
+            "Question": "I have used  Is there a way to produce natively an output format file that I can open in desktop GIS? Is there a geojson output? Thank you ",
+            "Combine Similarity score": 0.05913159251213074,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.11826318502426147
+        },
+        {
+            "id": 44,
+            "title": "Graylog via Kafka",
+            "Question": "I\u2019m planning to use Spring boot and Graylog for our application logging. Is it possible to use Kafka as the log transport mechanism? Any recommendations on how this done, libraries would be much appreciated.  ",
+            "Combine Similarity score": 0.058197103440761566,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.11639420688152313
+        },
+        {
+            "id": 29,
+            "title": "How to add frame color to your newly opened window?",
+            "Question": "want to add optional frame color in the newly opened window So i want to make an extension that open a link from an extension. and it is working. but i am wondering if its possible to also add a frame color option since it is written in the documentation here .  i tried something like this, even though before running it i highly doubt it will work ",
+            "Combine Similarity score": 0.05639958381652832,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.11279916763305664
+        },
+        {
+            "id": 99,
+            "title": "How to get a license to integrate Cast capability to my own development",
+            "Question": "I'm not sure exactly where to ask the question, so I'll try here. I've developped my own audio speaker/amplifier and I'd like to add Cast capability, so need the code for the cast receiver SDK, so I assume I need a license. What's the process for that? ",
+            "Combine Similarity score": 0.056035228073596954,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.11207045614719391
+        },
+        {
+            "id": 64,
+            "title": "How to avoid build timeout on deploy step?",
+            "Question": "I am trying to automate the generation of a bunch of doxygen documentations (multiple versions of a software). All is working well but I have a problem at the end of my build on the deploy step when deploying to GitHub page my build docs with the following output. The directory to publish in huge so, it is not a surprise that it take more than 10 minutes. I have tried to add  Is there any way to get this to work ? Here is my  The failing job :  And the build matrix :  ",
+            "Combine Similarity score": 0.055166926234960556,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.11033385246992111
+        },
+        {
+            "id": 75,
+            "title": "Prestashop - problem with sorting categories",
+            "Question": "I am using prestashop with version 1.7.4.4. There is specific category that has problems with sorting - when i use drag and drop functionality, drop this category at end of list - it shows message that category position was changed succesfully. But when i refresh page, it stays as before sorting. Only single category has this problem and i can sort it to some positions, but when i drop it at end of category list, there is problem. ",
+            "Combine Similarity score": 0.05402702838182449,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.10805405676364899
+        },
+        {
+            "id": 94,
+            "title": "Why does CrystalReportViewer show old data instead of asking for a database or raising an error?",
+            "Question": "When I run the following code, I get a report nicely formatted and containing valid data.  The only problem is that it's from the wrong database.  it shows ancient data from when the report was first being created.  How can I clear out the old data from this report so it either asks me where I want to get the data from or raises an error? ",
+            "Combine Similarity score": 0.05357373505830765,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1071474701166153
+        },
+        {
+            "id": 83,
+            "title": "Jenkins: Archive Failed with xcode 10.2",
+            "Question": "I am trying to build an .ipa from jenkins with freestyle project. I am using xcode10.2 and jenkins ver 2.112. But I faced the following issue. The following build commands failed: CompileSwift normal arm64\nCompileSwiftSources normal arm64 com.apple.xcode.tools.swift.compiler I tried so many solutions regarding this issue. but none of them help me. ",
+            "Combine Similarity score": 0.05347425863146782,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.10694851726293564
+        },
+        {
+            "id": 52,
+            "title": "heatmap refinement by using ConvLstm2D",
+            "Question": "I'm going to refine a sequential heatmaps which are related to frames of a video by considering their time correlation.\nI used ConvLSTM2D, but the output looks like the input average! and the accuracy is less than input.\nEach heatmap shows spatial probability of each joint in each frame.\nwould you help me to find the problem? ",
+            "Combine Similarity score": 0.05211634561419487,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.10423269122838974
+        },
+        {
+            "id": 2,
+            "title": "React Native FAILURE: Build failed with an exception ative_modules.gradle' line: 191",
+            "Question": "i got error when i start \"react-native run-android\" do anyone can help me ? FAILURE: Build failed with an exception. Where:\nScript 'C:\\Users\\wayan\\Desktop\\android\\app\\node_modules@react-native-community\\cli-platform-android\\native_modules.gradle' line: 191 What went wrong:\nA problem occurred evaluating settings 'app'. Unable to determine the current character, it is not a string, number, array, or object The current character read is 'E' with an int value of 69\nUnable to determine the current character, it is not a string, number, array, or object\nline number 1\nindex number 0\nError: EPERM: operation not permitted, scandir 'C:/Users/wayan/Desktop/android/app/android/app/build/intermediates/signing_config/debug/out/signing-config.json'    at Object.readdirSync (fs.js:795:3)    at GlobSync._readdir (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:288:41)    at GlobSync._readdirInGlobStar (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:267:20)    at GlobSync._readdir (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:276:17)    at GlobSync._processReaddir (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:137:22)    at GlobSync._process (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:132:10)    at GlobSync._processGlobStar (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:380:10)    at GlobSync._process (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:130:10)    at GlobSync._processGlobStar (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:383:10)    at GlobSync._process (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:130:10)\n^ FAILURE: Build failed with an exception. Where:\nScript 'C:\\Users\\wayan\\Desktop\\android\\app\\node_modules@react-native-community\\cli-platform-android\\native_modules.gradle' line: 191 What went wrong:\nA problem occurred evaluating settings 'app'. Unable to determine the current character, it is not a string, number, array, or object The current character read is 'E' with an int value of 69\nUnable to determine the current character, it is not a string, number, array, or object\nline number 1\nindex number 0\nError: EPERM: operation not permitted, scandir 'C:/Users/wayan/Desktop/android/app/android/app/build/intermediates/signing_config/debug/out/signing-config.json'    at Object.readdirSync (fs.js:795:3)    at GlobSync._readdir (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:288:41)    at GlobSync._readdirInGlobStar (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:267:20)    at GlobSync._readdir (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:276:17)    at GlobSync._processReaddir (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:137:22)    at GlobSync._process (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:132:10)    at GlobSync._processGlobStar (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:380:10)    at GlobSync._process (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:130:10)    at GlobSync._processGlobStar (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:383:10)    at GlobSync._process (C:\\Users\\wayan\\Desktop\\android\\app\\node_modules\\glob\\sync.js:130:10)\n^ Try:\nRun with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights. ",
+            "Combine Similarity score": 0.05199139565229416,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.10398279130458832
+        },
+        {
+            "id": 48,
+            "title": "Execute postgis (st_intersects) methods in JPA Repository",
+            "Question": "Below code is my jpa method for intersects or  I tried to execute both types but I get same error when executing the both ",
+            "Combine Similarity score": 0.0517021082341671,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1034042164683342
+        },
+        {
+            "id": 92,
+            "title": "Why does updating the subject and body of a non-draft message work?",
+            "Question": "I seem to be able to update the subject and body of a (non-draft) message in a user's Inbox in apparent direct contradiction to the  Using Graph Explorer, I've logged in as a user and updated a message in that user's Inbox.  Then, I retrieved the message, both with Graph and in Outlook, and I see the updated subject and body. I actually am glad to see this behaviour, but I don't want to rely on it until I understand the apparent discrepancy with the documentation. ",
+            "Combine Similarity score": 0.05037946254014969,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.10075892508029938
+        },
+        {
+            "id": 20,
+            "title": "Monitoring Water Quality witth Arduino micro-controller and Node js",
+            "Question": "Good day everyone. Please I am in need of assistance of knowledge. I want to design an application that works with an Arduino micro-controllers that is connected to different controllers and sensors to monitor water quality. I know Node js and JavaScript but I need an idea on how to start programming things like this. Thank you. I have never done any project like this because this is not my area of expertise but I want to do one now. ",
+            "Combine Similarity score": 0.050115425139665604,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.10023085027933121
+        },
+        {
+            "id": 60,
+            "title": "Solace Ingress and Egress message discards?",
+            "Question": "Is there any documentation on what the subsections mean under SolAdmin -> Statistics -> Client Statistics \nThere are two sections Total Ingress Discards / Total Egress Discards and further classification under that. I would like to understand more on the subsections under ingress/egress discards  Tried searching the documentation and there was not much help. Appreciate if you can point me to the right documentation or share your knowledge here. thanks ",
+            "Combine Similarity score": 0.05008082091808319,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.10016164183616638
+        },
+        {
+            "id": 14,
+            "title": "How to convert 1D array of size (10,) to (5,4) so that i can plot heat map of (5,4)",
+            "Question": "from sklearn.model_selection import train_test_split from sklearn.model_selection import GridSearchCV from sklearn.model_selection import Randomize import time start_time=time.time() RF = RandomForestClassifier(n_jobs=-1,class_weight='balanced') parameters = { 'n_estimators' :[10, 100, 500, 1000],'max_depth': [10, 50, 100, 500, 1000]} clf = RandomizedSearchCV(RF,parameters, cv= 3, scoring='roc_auc',return_train_score=True) clf.fit(X_train, y_train) train_auc= clf.cv_results_['mean_train_score'] train_auc_std= clf.cv_results_['std_train_score'] cv_auc = clf.cv_results_['mean_test_score']  cv_auc_std= clf.cv_results_['std_test_score'] print(\"Execution time: \" + str((time.time() - start_time)) + ' ms') train_auc = train_auc.reshape(5,2)  cv_auc = cv_auc.reshape(5,2) train_auc cv_auc plt.yticks(np.arange(4), [10, 100, 500, 1000]) plt.xticks(np.arange(5), [10, 50, 100, 500, 1000]) ",
+            "Combine Similarity score": 0.05006299167871475,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.1001259833574295
+        },
+        {
+            "id": 43,
+            "title": "How do I generate simulated orbits with Skyfield?",
+            "Question": "I have the orbital parameters for multiple simulated orbits. I want to feed this into Skyfield so that I can see how the distances between the satellites (and to ground stations) vary with time.   It seems that Skyfield only supports creating a EarthSatellite instance via a TLE. \nDo I have to fake a TLE to create my 'own' satellites? ",
+            "Combine Similarity score": 0.048920657485723495,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.09784131497144699
+        },
+        {
+            "id": 55,
+            "title": "how to use keras min_delta and cooldown in ReduceLROnPlateau",
+            "Question": "Lets say we set    ReduceLROnPlateau(monitor='val_acc', factor=0.1, patience=10, verbose=0, mode='auto', min_delta=0.1, cooldown=0, min_lr=1e-8) is this how algorithm proceeds?    if yes, then for validation accuracy as metric, as we lower the min_delta(finer), we\nshould get more frequent learning rate changes  and vice versa? Also, how does the above change with lets say a cool down of 2?(is it useful to have non zero cooldown?) ",
+            "Combine Similarity score": 0.04826345294713974,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.09652690589427948
+        },
+        {
+            "id": 76,
+            "title": "\"Email me my location\" flow returns \"Invalid type\" error",
+            "Question": "I created an \"Email me my location\" flow with the following values When I ran the flow, I got the flowing error Any ideas as to why this is happening? ",
+            "Combine Similarity score": 0.04821673035621643,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.09643346071243286
+        },
+        {
+            "id": 8,
+            "title": "Getting error \u201cduplicate name in plugin : core jackson2\u201d while Converting RAML to POJO",
+            "Question": "I have tried to convert given raml file in POJO using RamlToPojo class but I am getting error like duplicate plugin. Please see below code:\npublic class Main { } ",
+            "Combine Similarity score": 0.04595961794257164,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.09191923588514328
+        },
+        {
+            "id": 73,
+            "title": "Prevent DBMS schedular job from executing next run without killing the job",
+            "Question": "I have a DBMS_SCHEDULER job which is running now. I want to prevent this job from executing next run without killing the current job. I tried to disable the job. But it will not disable a running job ",
+            "Combine Similarity score": 0.04587390646338463,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.09174781292676926
+        },
+        {
+            "id": 12,
+            "title": "is there any way to execute mkdir in etcdctk v3",
+            "Question": "I am executing this command using etcdctl(etcdctl version: 3.3.13): throw this error: I read the command help and find no mkdir commands.Is there any way to execute command in etcdctl v3 or any replace way? ",
+            "Combine Similarity score": 0.043633218854665756,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.08726643770933151
+        },
+        {
+            "id": 82,
+            "title": "Routing b/w components as last component shouldn't show current component show be on screen in Angular",
+            "Question": "Routing b/w components as last component shouldn't show current component show be on screen. ",
+            "Combine Similarity score": 0.043270643800497055,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.08654128760099411
+        },
+        {
+            "id": 68,
+            "title": "etc/host How to add a directory in Windows",
+            "Question": "I'm trying to set  But I can't figure out how to add a directory to my etc/host. This is what I'm doing, at my etc/host If I access it as  ",
+            "Combine Similarity score": 0.04308699071407318,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.08617398142814636
+        },
+        {
+            "id": 22,
+            "title": "Accordion getting collapsed when we filter the list",
+            "Question": "When I use the filter on that list it is getting collapsed on every click It should not get collapsed ",
+            "Combine Similarity score": 0.041854556649923325,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.08370911329984665
+        },
+        {
+            "id": 96,
+            "title": "How to use a network wrapper with retrofit and and livedata to know observe network status",
+            "Question": "I have been trying to use a Network wrapper with retrofit to observe my retrofit loading status like the example Google provided with the GitHub example please I don't mind a practical example\nWith retrofit and corutines ",
+            "Combine Similarity score": 0.040103621780872345,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.08020724356174469
+        },
+        {
+            "id": 90,
+            "title": "Last record not shown when using NavigationController",
+            "Question": "When I use navigation controller with XLPagerTabStrip the last table records are below the tabbar. When I remove the navigation controller all records are shown correctly. [enter image description here] [1]:  ",
+            "Combine Similarity score": 0.03879053518176079,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.07758107036352158
+        },
+        {
+            "id": 50,
+            "title": "How do I execute a shell builtin after executing a shell automatically without using profile and RC files?",
+            "Question": "I want to execute my shell with the environment I provide as the command line arguments. For that I have a script that ends with  e.g: My issue is that, I also want to execute  ",
+            "Combine Similarity score": 0.03746103495359421,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.07492206990718842
+        },
+        {
+            "id": 54,
+            "title": "Retrieving data from CellGridRenderer via cellRendererFramework in React",
+            "Question": "I am having issues getting the click data on the cellrenderer in  Parent Grid: in Child componet ",
+            "Combine Similarity score": 0.036659903824329376,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.07331980764865875
+        },
+        {
+            "id": 25,
+            "title": "How to set center align and between gap of product shown on home page in ArtFactory theme of nopcommerce 3.80",
+            "Question": "I want to set center align of product which I am showing in home page and also provide the gap between the product image. For more clear lets see the image of it.  As per the image shown their is three product image with their name now I want to set this line in a center align also want some gap between the image. This product is showing in the home page of  ",
+            "Combine Similarity score": 0.03465283289551735,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.0693056657910347
+        },
+        {
+            "id": 36,
+            "title": "learner get_preds, preds and predicted value not equal",
+            "Question": "max argument value and predicted output of get_preds of learner(cnn_learner) are not coming equal I tried reading the source code but could not understand how it is coming different\n ",
+            "Combine Similarity score": 0.03453658148646355,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.0690731629729271
+        },
+        {
+            "id": 70,
+            "title": "XMPP message still receive even already block through XMPP PrivacyList",
+            "Question": "I blocked the user and it is successfully block, but when I close and open again the app, it can still receive messages ",
+            "Combine Similarity score": 0.031691282987594604,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.06338256597518921
+        },
+        {
+            "id": 13,
+            "title": "Does anyone know of a DATA SUPPRESSION Package in python?",
+            "Question": "Data suppression as in data suppression for privacy reason.\nData suppression as in data suppression for privacy reason. ",
+            "Combine Similarity score": 0.0309984739869833,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.0619969479739666
+        },
+        {
+            "id": 57,
+            "title": "How to convert the game video rcd format of \"QQ Hyun Dance\" game to other video formats?",
+            "Question": "I want to convert the video format, because the rcd format can't be played by the player, it can only be played in the game. ",
+            "Combine Similarity score": 0.02967916429042816,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.05935832858085632
+        },
+        {
+            "id": 35,
+            "title": "ERROR: Attribute '' cannot be parsed: Cannot read property 'dataType' of undefined",
+            "Question": "I was creating document_types table using following cli command ",
+            "Combine Similarity score": 0.028724772855639458,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.057449545711278915
+        },
+        {
+            "id": 95,
+            "title": "org.eclipse.persistence.jpa.PersistenceProvider' not found",
+            "Question": "Failed services\" => {\"jboss.deployment.unit.\\\"avanex.war\\\".FIRST_MODULE_USE\" => \"WFLYSRV0153: Failed to process phase FIRST_MODULE_USE of deployment \\\"avanex.war\\\"\n    Caused by: javax.persistence.PersistenceException: WFLYJPA0057: PersistenceProvider 'org.eclipse.persistence.jpa.PersistenceProvider' not found\"}} ",
+            "Combine Similarity score": 0.02774295024573803,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.05548590049147606
+        },
+        {
+            "id": 18,
+            "title": "Sequential consistency vs Writes Follows Reads and Read Your Writes",
+            "Question": "I had an exam question today and I'm wondering if its correct vs If you combine the first two  I wrote that it does mainly because the two together emulate the same behavior. Is this accurate? ",
+            "Combine Similarity score": 0.01423108670860529,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.02846217341721058
+        },
+        {
+            "id": 81,
+            "title": "I am facing this issue when i install testng release 7.0 and add dependency for same versiojn 7.0",
+            "Question": "java.lang.NoSuchMethodError: org.testng.remote.AbstractRemoteTestNG.addListener(Lorg/testng/ISuiteListener",
+            "Combine Similarity score": 0.0,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": 0.0
+        },
+        {
+            "id": 46,
+            "title": "Wp-Calypso: Update react view without recompiling entire wp-calypso app",
+            "Question": "I'm currently working on a view based on the  ",
+            "Combine Similarity score": -0.013774449937045574,
+            "Syntactic Similarity score": 0.0,
+            "Semantic Similarity score": -0.02754889987409115
+        }
+    ]
+}

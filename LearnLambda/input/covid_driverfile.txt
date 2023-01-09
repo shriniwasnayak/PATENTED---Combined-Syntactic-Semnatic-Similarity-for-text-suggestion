@@ -1,0 +1,6 @@
+Is aarogya setu app necessary for air travel ?
+/home/shriniwas/BE/BEProj/LearnLambda/input/COVID_Questions_1.csv
+Are there any vaccines in clinical trial?
+/home/shriniwas/BE/BEProj/LearnLambda/input/COVID_Questions_2.csv
+Details on cure of COVID19 
+/home/shriniwas/BE/BEProj/LearnLambda/input/COVID_Questions_3.csv

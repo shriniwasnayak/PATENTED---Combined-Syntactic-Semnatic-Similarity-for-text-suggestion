@@ -1,0 +1,5 @@
+E:\College\Project_BE\Product\input\stackinputdata.csv 1
+E:\College\Project_BE\Product\input\techminputdata.csv 1
+E:\College\Project_BE\Product\input\semanticinputdata.csv 0
+E:\College\Project_BE\Product\input\largeinputdata.csv 1
+E:\College\Project_BE\Product\input\testinputdata.csv 0
